@@ -1,0 +1,15 @@
+{% extends "polls/base.html" %}
+
+{% block question %}
+    <p>
+        정보를 입력해 보세요!
+    </p>
+    <form action="{% url 'polls:result' %}" method="POST">
+        {% csrf_token %}
+        <p>
+            <label for="word">단어: </label>
+            <input id="word" type="text" name="word">
+        </p>
+        <input type="submit" value="OK">
+    </form>
+{% endblock question %}

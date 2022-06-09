@@ -1,0 +1,2178 @@
+<!doctype html>
+<html lang="ko" data-useragent="Mozilla/5.0">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+		<meta property="og:title" content="부산 모범납세자, 프로야구 시구·시타">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102">
+		<meta property="og:image" content="https://imgnews.pstatic.net/image/014/2022/06/09/0004849526_001_20220609182007284.jpg">
+		<meta property="og:description" content="부산지방국세청은 지난 8일 부산사직야구장에서 모범납세자 및 아름다운납세자 표창을 수상한 기업대표를 초청해 시구·시타와 프로야구 관람행사를 갖고 야구장을 찾은 시민들에게 성실납세에 대한 감사와 세정홍보 활동을 펼쳤다고">
+		<meta property="og:article:author" content="파이낸셜뉴스 | 네이버">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="부산 모범납세자, 프로야구 시구·시타">
+		<meta name="twitter:site" content="네이버 뉴스">
+		<meta name="twitter:creator" content="파이낸셜뉴스">
+		<meta name="twitter:image" content="https://imgnews.pstatic.net/image/014/2022/06/09/0004849526_001_20220609182007284.jpg">
+		<meta name="twitter:description" content="부산지방국세청은 지난 8일 부산사직야구장에서 모범납세자 및 아름다운납세자 표창을 수상한 기업대표를 초청해 시구·시타와 프로야구 관람행사를 갖고 야구장을 찾은 시민들에게 성실납세에 대한 감사와 세정홍보 활동을 펼쳤다고">
+		<meta name="napp-site-analysis" content="gdid=880000FF_000000000000000004849526,service=news,collection=news,section=102">
+		<title>부산 모범납세자, 프로야구 시구·시타</title>
+			<link rel="stylesheet" href="https://static-nnews.pstatic.net/css/min/20220609/news.css">
+			<link rel="shortcut icon" type="image/x-icon" href="https://mimgnews.pstatic.net/image/news/m/2014/favicon/favicon.ico" />
+			<link rel="apple-touch-icon-precomposed" href="https://ssl.pstatic.net/static.news/image/news/m/2018/favicon/06/android_legacy_xxxhpdi_192x192.png" />
+			<link rel="apple-touch-icon-precomposed" size="72x72" href="https://ssl.pstatic.net/static.news/image/news/m/2018/favicon/06/android_legacy_hdpi_72X72.png" />
+			<link rel="apple-touch-icon-precomposed" size="96x96" href="https://ssl.pstatic.net/static.news/image/news/m/2018/favicon/06/android_legacy_xhdpi_96x96.png" />
+			<link rel="apple-touch-icon-precomposed" size="144x144" href="https://ssl.pstatic.net/static.news/image/news/m/2018/favicon/06/android_legacy_xxhpdi_144x144.png" />
+			<link rel="apple-touch-icon-precomposed" size="192x192" href="https://ssl.pstatic.net/static.news/image/news/m/2018/favicon/06/android_legacy_xxxhpdi_192x192.png" />
+					<script async src="https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js"></script>
+		<script>
+			var g_ssc = nsc = "Mnews.v2";
+			var g_default_area = "art";
+
+			var svr = "one-service-r-20220609-220609-143348-6c64446964-4vdxv";
+			var nelo = {
+				sampleNumber : 100,
+				maxCount : 100,
+				maxSendMessage : "로그 전송 최대치 도달"
+			};
+			var isGreendot = document.cookie.indexOf("MM_NEW=1") > -1;
+			var isNewGreendot = document.cookie.indexOf("MM_NEW=2") > -1;
+			var domain = "https://n.news.naver.com";
+			var ajaxDomain = "";
+			var newsDomain = "https://news.naver.com";
+			var isAvailableDarkMode = false;
+
+			var article = {
+				isSubscribe: false,
+				officeId: "014",
+				articleId: "0004849526",
+				sectionId : "102",
+				gdid: "880000FF_000000000000000004849526",
+				type: "1",
+				sectionInfo: {
+					firstSection: "102",
+					secondSection: "256",
+					thirdSection: "000"
+				},
+				title: document.title
+			};
+
+
+
+			var office = {
+				isChannel: true,
+				isPressHome: true,
+				name : "파이낸셜뉴스",
+				category : "경제지"
+			};
+
+			var refererType = "UNKNOWN";
+
+			var searchQuery = (function() {
+				var referrerLink = document.createElement("a");
+				var emptySearch = "";
+
+				referrerLink.href = document.referrer || "";
+
+				if (referrerLink.host.indexOf("search.naver.com") === -1) {
+					return emptySearch;
+				}
+
+				return decodeURIComponent(
+					(
+						referrerLink.search.match(/(?:\?|&)query\=([^&]+)/) || [ null, emptySearch ]
+					)[1].replace(/\+/g, " ")
+				);
+			})();
+
+			var divIds = [];
+			var syncDivIds = [];
+			var syncDivIdsForNonArticle = [];
+
+			var unitIds = [];
+			var syncUnitIds = [];
+			var syncUnitIdsForNonArticle = [];
+
+			window.gladsdk = window.gladsdk || { cmd: [] };
+			gladsdk.cmd.push(function() {
+				gladsdk.setAdDeduplication("article_body_dedup");
+				gladsdk.setGlobalConfig({ enablePersistAd: true });
+
+				var adInfoList = [];
+
+				adInfoList.push({
+					seq: 1,
+					unitId: "p_news_newsend",
+					sync: false,
+					mobileOnly: false,
+					article: false,
+					directSalesPct: "0",
+					calp: false
+				});
+				adInfoList.push({
+					seq: 2,
+					unitId: "p_news_sidebox",
+					sync: false,
+					mobileOnly: false,
+					article: false,
+					directSalesPct: "0",
+					calp: false
+				});
+
+				var userAgent = navigator.userAgent.toLowerCase();
+
+				for (var i = 0; i < adInfoList.length; i++) {
+					var adInfo = adInfoList[i];
+
+					var divId = "nmap_c_" + article.officeId + "_" + article.articleId + "_" + article.sectionId + "_" + adInfo.seq;
+
+					var unitId = adInfo.unitId;
+					var mobileOnly = adInfo.mobileOnly;
+					var sync = adInfo.sync;
+					var isArticle = adInfo.article;
+					var directSalesPct = adInfo.directSalesPct;
+					var calp = adInfo.calp;
+
+					if (mobileOnly == true) {
+						if (/iphone|android|ipod/.test(userAgent) == false) {
+							continue;
+						}
+					}
+
+					var customParam = {
+						sid1: article.sectionId,
+						oid: article.officeId,
+						gdid: article.gdid,
+						pk: searchQuery,
+						directSalesPct: directSalesPct
+					};
+
+					if (calp == true) {
+						customParam.calp = "";
+					}
+
+					var adUnit = {
+						adUnitId: unitId,
+						adSlotElementId: divId,
+						customParam: customParam
+					};
+
+					if (sync == true) {
+						syncUnitIds.push(unitId);
+						syncDivIds.push(divId);
+
+						if (isArticle == false) {
+							syncUnitIdsForNonArticle.push(unitId);
+							syncDivIdsForNonArticle.push(divId);
+						}
+					} else {
+						unitIds.push(unitId);
+						divIds.push(divId);
+					}
+
+					gladsdk.defineAdSlot(adUnit);
+				}
+
+			});
+			window.__htExternalUrl = window.__htExternalUrl || {};
+		</script>
+		<script src="https://static-nnews.pstatic.net/js/min/20220609/common.min.js"></script>
+	</head>
+	<body class="n_news_mnews fs2 as_mp_layout">
+		<div class="end_container">
+		<div class="u_skip"><a href="#ct">본문 바로가기</a></div>
+		<header role="banner" class="as_gnb_mnews">
+	<div class="header_inner">
+		<div class="Ngnb">
+			<div class="Ngnb_inner">
+				<div class="Ngnb_both">
+					<div class="Ngnb_left">
+						<span class="Ngnb_logo"><a href="https://m.naver.com/" class="Nlogo_link _LINK" data-clk="gnb.naver" data-url="https://m.naver.com/" data-pc-url="https://www.naver.com/"><span class="Nicon_logo">NAVER</span></a></span>
+						<div class="Ngnb_service">
+							<h1 class="Nservice_item"><a href="https://m.news.naver.com" class="_LINK" data-clk="gnb.news" data-url="https://m.news.naver.com" data-pc-url="https://news.naver.com/"><span class="Nicon_service">뉴스</span></a></h1>
+							<span class="Nservice_subitem">
+								<a href="https://m.entertain.naver.com" class="_LINK" data-clk="gnb.entertain" data-url="https://m.entertain.naver.com" data-pc-url="https://entertain.naver.com/home">
+									<span class="Nicon_family Nicon_entertain">연예</span>
+								</a>
+							</span>
+							<span class="Nservice_subitem">
+								<a href="https://m.sports.naver.com" class="_LINK" data-clk="gnb.sports" data-url="https://m.sports.naver.com" data-pc-url="https://sports.news.naver.com/index">
+									<span class="Nicon_family Nicon_sports">스포츠</span>
+								</a>
+							</span>
+							<span class="Nservice_subitem">
+								<a href="https://weather.naver.com" data-clk="gnb.weather">
+									<span class="Nicon_family Nicon_weather">날씨</span>
+								</a>
+							</span>
+							<span class="Nservice_subitem">
+								<a href="https://contents.premium.naver.com" data-clk="gnb.premium">
+									<span class="Nicon_family Nicon_premium">프리미엄</span>
+								</a>
+							</span>
+						</div>
+					</div>
+					<div class="Ngnb_right">
+						<div class="Ngnb_group">
+							<div id="gnb" class="gnb_dark_type2"></div>
+						</div>
+						<div class="Ngnb_search _SEARCH_WRAP is_hidden"></div>
+						<div class="Ngnb_tool">
+							<a href="javascript:;" class="Ntool_button _SEARCH_CONTENT_TOGGLE_BUTTON" data-clk="gnb.scho"><span class="Nicon_search">검색</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="_LNB_PARENT_WRAP" class="Nlnb" style="z-index:3000;" data-scroll-fixed="true">
+		<div id="_LNB_WRAP" class="Nlnb_menu Ntype_scroll " style="position: relative;">
+			<div id="_LNB" class="Nlnb_menu_inner">
+				<ul class="Nlnb_menu_list" role="tablist">
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/" class="Nitem_link" data-clk="lnb.press"><span class="Nitem_link_menu">언론사별</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/main/main.naver?mode&#x3D;LSD&amp;mid&#x3D;shm&amp;sid1&#x3D;100" class="Nitem_link" data-clk="lnb.pol"><span class="Nitem_link_menu">정치</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/main/main.naver?mode&#x3D;LSD&amp;mid&#x3D;shm&amp;sid1&#x3D;101" class="Nitem_link" data-clk="lnb.eco"><span class="Nitem_link_menu">경제</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM is_active" role="tab">
+						<a href="https://news.naver.com/main/main.naver?mode&#x3D;LSD&amp;mid&#x3D;shm&amp;sid1&#x3D;102" class="Nitem_link" data-clk="lnb.soc"><span class="Nitem_link_menu">사회</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/main/main.naver?mode&#x3D;LSD&amp;mid&#x3D;shm&amp;sid1&#x3D;103" class="Nitem_link" data-clk="lnb.lif"><span class="Nitem_link_menu">생활/문화</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/main/main.naver?mode&#x3D;LSD&amp;mid&#x3D;shm&amp;sid1&#x3D;105" class="Nitem_link" data-clk="lnb.it"><span class="Nitem_link_menu">IT/과학</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/main/main.naver?mode&#x3D;LSD&amp;mid&#x3D;shm&amp;sid1&#x3D;104" class="Nitem_link" data-clk="lnb.wor"><span class="Nitem_link_menu">세계</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/main/ranking/popularDay.naver?mid&#x3D;etc&amp;sid1&#x3D;111" class="Nitem_link" data-clk="lnb.rank"><span class="Nitem_link_menu">랭킹</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/newspaper/home" class="Nitem_link" data-clk="lnb.paper"><span class="Nitem_link_menu">신문보기</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/main/opinion/home.naver" class="Nitem_link" data-clk="lnb.opi"><span class="Nitem_link_menu">오피니언</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/main/tv/index.naver?mid&#x3D;tvh" class="Nitem_link" data-clk="lnb.tv"><span class="Nitem_link_menu">TV</span></a>
+					</li>
+					<li class="Nlist_item _LNB_ITEM" role="tab">
+						<a href="https://news.naver.com/main/factcheck/main.naver" class="Nitem_link" data-clk="lnb.fact"><span class="Nitem_link_menu">팩트체크</span></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+	</div>
+</header>
+<hr>
+<script>
+	var svt = "20220609183623";
+	var timestamp = svt.substr(0, 8);
+	var isLogin = false;
+	var uhv = "";
+
+	var service = {
+		news: false,
+		entertain: false,
+		sports: false,
+		mnews: true,
+		newsType: true
+	};
+	var serviceName = "mnews";
+
+	var isProduction = true;
+
+	var gnb_service = "news";
+	var gnb_logout = encodeURIComponent(location.href);
+	var gnb_template = "gnb_utf8";
+	var gnb_brightness = 3;
+</script>
+<div id="ct_wrap" class="ct_wrap">
+	<div class="ct_scroll_wrapper">
+		<div class="newsct_wrapper _GRID_TEMPLATE_COLUMN"><div id="ct" class="newsct" role="main">
+<div class="media_end_head go_trans">
+	<div class="media_end_head_top">
+		<a href="http://www.fnnews.com/" class="media_end_head_top_logo">
+			<img src="https://mimgnews.pstatic.net/image/upload/office_logo/014/2020/09/18/logo_014_6_20200918175030.png" width="" height="32" alt="파이낸셜뉴스" title="파이낸셜뉴스" class="media_end_head_top_logo_img light_type">
+			<img src="https://mimgnews.pstatic.net/image/upload/office_logo/014/2020/09/18/dark_logo_014_6_20200918175009.png" width="" height="32" alt="파이낸셜뉴스" title="파이낸셜뉴스" class="media_end_head_top_logo_img dark_type">
+		</a>
+		<div class="media_end_head_top_channel _CHANNEL_BUTTON_WRAP" style="display:none;">
+			<button class="media_end_head_top_channel_add _CHANNEL_BUTTON" data-clk-add="chmain014" data-clk-remove="chdelete014" data-text="구독" data-delay="1000" data-notification="true" data-notification-clk="notru">구독</button>
+			<a id="_CHANNEL_LAYER_014_0004849526" href="#" class="media_end_head_top_channel_layer _LINK" data-url-type="NAVERAPP_NEWS_CHANNEL" data-clk="chlook" style="display: none;">
+				<span class="media_end_head_top_channel_layer_text"><strong>파이낸셜뉴스</strong> 언론사 구독되었습니다. <br>메인 뉴스판에서  주요뉴스를 <br> 볼 수 있습니다.</span>
+				<span class="media_end_head_top_channel_layer_link">보러가기</span>
+			</a>
+			<p id="_CHANNEL_REMOVE_LAYER_014_0004849526" class="media_end_head_top_channel_layer" style="display: none;">
+				<span class="media_end_head_top_channel_layer_text"><strong>파이낸셜뉴스</strong> 언론사 구독 해지되었습니다.</span>
+			</p>
+		</div>
+	</div>
+	<div class="media_end_head_title">
+		<h2 class="media_end_head_headline">부산 모범납세자, 프로야구 시구·시타</h2>
+	</div>
+	<div class="media_end_head_info nv_notrans ">
+		<div class="media_end_head_info_datestamp">
+			<div class="media_end_head_info_datestamp_bunch">
+				<em class="media_end_head_info_datestamp_term">입력</em><span class="media_end_head_info_datestamp_time _ARTICLE_DATE_TIME" data-date-time="2022-06-09 18:20:07">2022.06.09. 오후 6:20</span>
+			</div>
+			<a href="http://www.fnnews.com/news/202206091819321171" target="_blank" class="media_end_head_origin_link" data-clk="are.ori" data-gdid="014" data-extra="{&quot;lk&quot;:{&quot;oid&quot;:&quot;014&quot;,&quot;aid&quot;:&quot;5ab36f861b2b943a&quot;}}">기사원문</a>
+		</div>		<div class="media_end_head_journalist">
+			<a href="https://media.naver.com/journalist/014/73653" class="media_end_head_journalist_box" data-clk="ummore">
+					<div class="media_end_head_journalist_thumb">
+						<img src="https://mimgnews.pstatic.net/image/upload/journalist/2020/02/24/21.jpg?type&#x3D;nf112_112" width="24" height="24">
+					</div>
+				<em class="media_end_head_journalist_name">노동균 기자</em>
+			</a>
+			<div id="_JOURNALIST_LAYER" class="media_end_head_journalist_layer _JOURNALIST_CARD" style="display: none;">
+				<ul class="media_end_head_journalist_layer_list">
+					<li class="media_end_head_journalist_layer_item _SUBSCRIBE_ELE" data-subscribe-type="JOURNALIST">
+						<a href="https://media.naver.com/journalist/014/73653" class="media_end_head_journalist_layer_link _like_cheer_count _LIKE_HIDE _LAZY_LOADING_WRAP" data-clk="ummore">
+							<div class="media_end_head_journalist_layer_thumb _LAZY_LOADING_ERROR_HIDE">
+								<img data-src="https://mimgnews.pstatic.net/image/upload/journalist/2020/02/24/21.jpg?type&#x3D;nf112_112" width="38" height="38" class="_LAZY_LOADING">
+							</div>
+							<div class="media_end_head_journalist_layer_text _reactionModule" id="_cheer_73653_layer" data-sid="JOURNALIST" data-cid="73653" data-ccounttype="period">
+								<em class="media_end_head_journalist_layer_name">노동균 기자</em>
+								<dl class="media_end_head_journalist_layer_subscriber _button" data-type="cheer" data-ishiddenzerocount="true" data-isHiddenLabelAsZeroCount="true">
+									<div class="media_end_head_journalist_layer_definition_wrap _SUBSCRIBE_COUNT_TEXT_WRAP">
+										<dt>구독자</dt>
+										<dd class="_SUBSCRIBE_COUNT_TEXT" data-maxcount="99999">0</dd>
+									</div>
+									<div class="media_end_head_journalist_layer_definition_wrap">
+										<dt class="_label">응원수</dt>
+										<dd class="_count">0</dd>
+									</div>
+								</dl>
+							</div>
+						</a>
+						<div class="_JOURNALIST_ID" data-journalistId="73653">
+							<button type="button" class="media_end_head_journalist_btn_subscribe _SUBSCRIBE" data-channelKey="JOURNALIST_73653" data-clk="umsubs">구독</button>
+							<button type="button" class="media_end_head_journalist_btn_subscribe is_on _UNSUBSCRIBE" data-channelKey="JOURNALIST_73653" data-type="journalist" data-messageValue="노동균" data-clk="umunsubs" style="display:none;">구독중</button>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="media_end_head_info_variety">
+			<div class="media_end_head_info_variety_left" id="commentFontGroup">
+				<div class="media_end_head_info_variety_likeit _LIKE_HIDE as_likeit_improve">
+					<!-- 좋아요 -->
+					<div class="_reactionModule u_likeit nv_notrans" data-sid="NEWS" data-cid="ne_014_0004849526">
+						<a class="u_likeit_button _face _LIKE_BUTTON" data-label="recommend" aria-haspopup="true" aria-pressed="false" data-clk="RTL.face">
+							<span class="u_likeit_icons _icons">
+								<span class="u_likeit_icon __reaction__zeroface"></span>
+							</span>
+							<span class="u_likeit_text _count">추천</span>
+						</a>
+						<ul class="u_likeit_layer _faceLayer" role="menu">
+							<li class="u_likeit_list useful" role="menuitem">
+								<a class="u_likeit_list_button _button off" data-type="useful" data-log="RTL.useful|RTL.unuseful" href="#" role="button" aria-selected="false" aria-pressed="false">
+									<span class="u_likeit_list_name _label">쏠쏠정보</span>
+									<span class="u_likeit_list_count _count">0</span>
+								</a>
+							</li>
+							<li class="u_likeit_list wow" role="menuitem">
+								<a class="u_likeit_list_button _button off" data-type="wow" data-log="RTL.wow|RTL.unwow" href="#" role="button" aria-selected="false" aria-pressed="false">
+									<span class="u_likeit_list_name _label">흥미진진</span>
+									<span class="u_likeit_list_count _count">0</span>
+								</a>
+							</li>
+							<li class="u_likeit_list touched" role="menuitem">
+								<a class="u_likeit_list_button _button off" data-type="touched" data-log="RTL.touched|RTL.untouched" href="#" role="button" aria-selected="false" aria-pressed="false">
+									<span class="u_likeit_list_name _label">공감백배</span>
+									<span class="u_likeit_list_count _count">0</span>
+								</a>
+							</li>
+							<li class="u_likeit_list analytical" role="menuitem">
+								<a class="u_likeit_list_button _button off" data-type="analytical" data-log="RTL.analytical|RTL.unanalytical" href="#" role="button" aria-selected="false" aria-pressed="false">
+									<span class="u_likeit_list_name _label">분석탁월</span>
+									<span class="u_likeit_list_count _count">0</span>
+								</a>
+							</li>
+							<li class="u_likeit_list recommend" role="menuitem">
+								<a class="u_likeit_list_button _button off" data-type="recommend" data-log="RTL.recommend|RTL.unrecommend" href="#" role="button" aria-selected="false" aria-pressed="false">
+									<span class="u_likeit_list_name _label">후속강추</span>
+									<span class="u_likeit_list_count _count">0</span>
+								</a>
+							</li>
+						</ul>			</div>
+					<!-- 좋아요 -->
+				</div>
+				<div class="media_end_head_info_variety_cmtcount _COMMENT_HIDE">
+					<a href="/mnews/article/comment/014/0004849526?sid&#x3D;102" class="media_end_head_cmtcount_button _COMMENT_COUNT_VIEW" id="comment_count" data-clk="rplt" data-zero-allow="false" data-max-limit="true">댓글</a>
+				</div>
+			</div>
+			<div class="media_end_head_info_variety_right">
+				<!-- 요약봇 -->
+				<div id="_SUMMARY_BUTTON" class="media_end_head_autosummary _auto_summary_wrapper _SUMMARY _LIKE_HIDE" data-officeId="014" data-articleId="0004849526">
+					<a href="javascript:;" class="media_end_head_autosummary_button _toggle_btn _SUMMARY_BTN" data-clk="sum"><span class="blind">본문 요약봇</span></a>
+					<div class="media_end_head_autosummary_layer_dimmed _SUMMARY_DIMMED" style="display: none;"></div>
+					<div class="media_end_head_autosummary_layer _auto_summary_contents _SUMMARY_LAYER" style="display: none;">
+						<div class="media_end_head_autosummary_layer_head">
+							<strong class="media_end_head_autosummary_layer_head_tit">본문 요약봇<a href="https://m.help.naver.com/support/alias/news/news_m15.naver" class="media_end_head_autosummary_help _LINK" data-url="https://m.help.naver.com/support/alias/news/news_m15.naver" data-pc-url="https://help.naver.com/support/contents/contents.help?serviceNo=997&categoryNo=19330" data-clk="help">도움말</a></strong>
+							<span class="media_end_head_autosummary_layer_head_txt">자동 추출 기술로 요약된 내용입니다. 요약 기술의 특성상 본문의 주요 내용이 제외될 수 있어, 전체 맥락을 이해하기 위해서는 기사 본문 전체보기를 권장합니다.</span>
+							<a href="javascript:;" class="media_end_head_autosummary_layer_close _close_button _SUMMARY_CLOSE_BTN" data-clk="close"><span class="blind">닫기</span></a>
+						</div>
+						<div class="media_end_head_autosummary_layer_body">
+							<div class="_contents_body _SUMMARY_CONTENT_BODY"></div>
+						</div>
+					</div>
+				</div>
+				<!-- TTS -->
+					<div id="tts_player_div_wrap" class="media_end_head_tts nv_notrans">
+						<button type="button" class="media_end_head_tts_run _TTS_SETTING_BTN" title="텍스트 음성 변환 서비스" data-clk="wtts"><span class="blind">텍스트 음성 변환 서비스 사용하기</span></button>
+						<div class="media_end_head_tts_setlayer nv_notrans _TTS_SETTING_LAYER">
+							<div class="media_end_head_tts_setlayer_select">
+								<div class="media_end_head_tts_setlayer_select_bunch" id="ttsSelectGender">
+									<em class="media_end_head_tts_option_tit">성별</em>
+									<button type="button" class="media_end_head_tts_option" value="m" data-clk="ttsma">남성</button>
+									<button type="button" class="media_end_head_tts_option" value="f" data-clk="ttsfe">여성</button>
+								</div>
+								<div class="media_end_head_tts_setlayer_select_bunch" id="ttsSelectSpeed">
+									<em class="media_end_head_tts_option_tit">말하기 속도</em>
+									<button type="button" class="media_end_head_tts_option" value="3" data-clk="ttssp">느림</button>
+									<button type="button" class="media_end_head_tts_option" value="2" data-clk="ttssp">보통</button>
+									<button type="button" class="media_end_head_tts_option" value="0" data-clk="ttssp">빠름</button>
+								</div>
+								<p class="media_end_head_tts_desc">이동 통신망을 이용하여 음성을 재생하면 별도의 데이터 통화료가 부과될 수 있습니다.</p>
+								<button type="button" class="media_end_head_tts_apply _TTS_LISTEN_BTN" data-clk="ttsstart">본문듣기 시작</button>
+							</div>
+							<button type="button" class="media_end_head_tts_setlayer_close _TTS_SETTING_LAYER_CLOSE_BTN" data-clk="ttsclose"><span class="blind">닫기</span></button>
+						</div>
+					</div>
+					<div id="tts_player_div"></div>		<!-- 폰트 사이즈 -->
+				<div class="media_end_head_fontsize _font_size_config_wrapper _FONT_WRAP">
+					<a href="#" class="media_end_head_fontsize_set _font_size_config_toggle_btn _FONT_BUTTON" data-clk="fsz"><span class="blind">글자 크기 변경하기</span></a>
+					<div class="media_end_head_fontsize_setlayer _FONT_LAYER">
+						<ul class="media_end_head_fontsize_setlayer_select">
+							<li class="media_end_head_fontsize_option1 _opt">
+								<a href="#" class="media_end_head_fontsize_option_text _FONT_LAYER_BUTTON" data-value="1" data-clk="fsz1">가<em class="blind">1단계</em></a>
+								<a href="#" class="media_end_head_fontsize_option_name _FONT_LAYER_BUTTON" data-value="1" data-clk="fsz1">작게</a>
+							</li>
+							<li class="media_end_head_fontsize_option2 _opt">
+								<a href="#" class="media_end_head_fontsize_option_text _FONT_LAYER_BUTTON" data-value="2" data-clk="fsz2">가<em class="blind">2단계</em></a>
+								<a href="#" class="media_end_head_fontsize_option_name _FONT_LAYER_BUTTON" data-value="2" data-clk="fsz2">보통</a>
+							</li>
+							<li class="media_end_head_fontsize_option3 _opt">
+								<a href="#" class="media_end_head_fontsize_option_text _FONT_LAYER_BUTTON" data-value="3" data-clk="fsz3">가<em class="blind">3단계</em></a>
+								<a href="#" class="media_end_head_fontsize_option_name _FONT_LAYER_BUTTON" data-value="3" data-clk="fsz3">크게</a>
+							</li>
+							<li class="media_end_head_fontsize_option4 _opt">
+								<a href="#" class="media_end_head_fontsize_option_text _FONT_LAYER_BUTTON" data-value="4" data-clk="fsz4">가<em class="blind">4단계</em></a>
+								<a href="#" class="media_end_head_fontsize_option_name _FONT_LAYER_BUTTON" data-value="4" data-clk="fsz4">아주크게</a>
+							</li>
+							<li class="media_end_head_fontsize_option5 _opt">
+								<a href="#" class="media_end_head_fontsize_option_text _FONT_LAYER_BUTTON" data-value="5" data-clk="fsz5">가<em class="blind">5단계</em></a>
+								<a href="#" class="media_end_head_fontsize_option_name _FONT_LAYER_BUTTON" data-value="5" data-clk="fsz5">최대크게</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="media_end_head_share nv_notrans">
+					<a href="#" id="spiButton" class="u_btn_sns_share naver-splugin spi_sns_share nv_notrans _SHARE_BUTTON" onclick="return false" data-clk="ushr"
+					   data-style="type_a"
+					   data-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102" data-canonical-url="https://news.naver.com/main/read.naver?mode=LSD&mid=sec&oid=014&aid=0004849526&sid1=001"
+					   data-title="부산 모범납세자, 프로야구 시구·시타"
+					   data-likeServiceId="NEWS"
+					   data-likeContentsId="ne_014_0004849526"
+					   data-mail-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=mail"
+					   data-blog-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=blog"
+					   data-blog-source-type="3"
+					   data-blog-blog-id="naver"
+					   data-cafe-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=cafe"
+					   data-cafe-source-type="3"
+					   data-memo-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=memo"
+					   data-calendar-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=calendar"
+					   data-band-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=band"
+					   data-line-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=line"
+					   data-kakaotalk-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=kakao"
+					   data-kakaostory-display="off"
+					   data-kakaotalk-image-url="https://imgnews.pstatic.net/image/014/2022/06/09/0004849526_001_20220609182007284.jpg?type=nf300_200"
+					   data-facebook-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=facebook"
+					   data-twitter-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=twitter"
+					   data-mypeople-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=mypeople"
+					   data-friend-display="on"
+					   data-friend-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=friend">
+						<span class="naver-splugin-c send_caption"><span class="u_hc">SNS 보내기</span></span>
+					</a>
+				</div>
+				<div class="media_end_head_print">
+					<a href="#" class="media_end_print_link _PRINT_BUTTON" data-print-url="/mnews/article/print/014/0004849526" data-clk="print"><span class="blind">인쇄하기</span></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="contents" class="newsct_body">
+	<div id="newsct_article" class="newsct_article _article_body">
+		<div id="dic_area" class="go_trans _article_content">
+			<strong class="media_end_summary">서진민·서영우 대표 행사 참여</strong> <span class="end_photo_org"><div class="nbd_im_w _LAZY_LOADING_WRAP ">
+	<div class="nbd_a _LAZY_LOADING_ERROR_HIDE" id="img_a1">
+		<img id="img1" data-src="https://imgnews.pstatic.net/image/014/2022/06/09/0004849526_001_20220609182007284.jpg?type&#x3D;w647" class="_LAZY_LOADING" />
+	</div>
+</div><em class="img_desc">지난 8일 부산사직야구장에서 진행된 모범납세자 및 아름다운납세자 표창 수상자 시구·시타 행사에서 서진민 삼양금속공업 대표(왼쪽 두번째)와 서영우 대양전기공업 대표(왼쪽 세번째)가 소개되고 있다. 부산지방국세청 제공</em></span> 부산지방국세청은 지난 8일 부산사직야구장에서 모범납세자 및 아름다운납세자 표창을 수상한 기업대표를 초청해 시구&middot;시타와 프로야구 관람행사를 갖고 야구장을 찾은 시민들에게 성실납세에 대한 감사와 세정홍보 활동을 펼쳤다고 9일 밝혔다.  <br>  <br>노정석 부산국세청장은 야구 관람에 앞서 참석자들과 환담회를 갖고 코로나19의 어려움 가운데도 성실납세와 사회공헌으로 국가경제와 사회발전에 이바지한 모범납세자가 자부심을 갖도록 자긍심을 고취하고 세정상 어려움을 듣는 소통의 시간을 가졌다.  <br>  <br>한편 이날 시구 행사에는 성실납세와 사회공헌으로 2021년 아름다운 납세자에 선정된 서진민 삼양금속공업㈜ 대표가, 시타는 성실납세로 2022년 대통령표창을 수상한 서영우 대양전기공업㈜ 대표가 참여했다.  <br>  <br>부산국세청 관계자는 &quot;앞으로도 성실납세자가 우대받는 다양한 지원방안을 마련해 성실납세자의 자긍심을 고취하고 적극행정으로 지역경제의 회복과 도약을 세정 차원에서 뒷받침해 나가겠다&quot;고 전했다.  <br><br>
+		</div>
+	</div>
+	<div class="byline">
+		<p class="byline_p">
+			<span class="byline_s">노동균 기자 (defrost@fnnews.com)</span>
+		</p>
+	</div>
+	<div class="newsct_journalist">
+		<div class="newsct_journalist_inner">
+			<h4 class="blind">기자 프로필</h4>
+			<div class="media_journalistcard _JOURNALIST_CARD _MORE_WRAP">
+				<div id="JOURNALIST_CARD_LIST" class="media_journalistcard_inner">
+					<div class="media_journalistcard_item _SUBSCRIBE_ELE" data-subscribe-type="JOURNALIST">
+						<div class="media_journalistcard_item_inner">
+							<div class="media_journalistcard_intro">
+								<div class="subscribe_wrap _JOURNALIST_ID" data-journalistId="73653">
+									<a href="#" class="subscribe _SUBSCRIBE" data-channelKey="JOURNALIST_73653" data-clk="msubs">
+										<span class="subscribe_ico"><span>구독</span></span>
+									</a>
+									<a href="#" class="subscribe on _UNSUBSCRIBE" data-channelKey="JOURNALIST_73653" data-type="journalist" data-messageValue="노동균" style="display:none;" data-clk="munsubs">
+										<span class="subscribe_ico"><span>구독중</span></span>
+									</a>
+								</div>
+								<a href="https://media.naver.com/journalist/014/73653" class="media_journalistcard_summary" data-clk="mmore">
+									<div class="media_journalistcard_summary_inner _LAZY_LOADING_WRAP">
+										<div class="media_journalistcard_summary_photo _LAZY_LOADING_ERROR_HIDE">
+											<div class="media_journalistcard_summary_photo_inner">
+												<img data-src="https://mimgnews.pstatic.net/image/upload/journalist/2020/02/24/21.jpg?type&#x3D;nf112_112" width="40" height="40" alt="" class="media_journalistcard_summary_photo_inner_img _LAZY_LOADING _LAZY_LOADING_INIT_HIDE" style="display:none;">
+											</div>
+										</div>
+										<div class="media_journalistcard_summary_info">
+											<span class="media_journalistcard_summary_press">
+												<img src="https://mimgnews.pstatic.net/image/upload/office_logo/014/2020/09/18/logo_014_6_20200918175030.png" height="24" alt="파이낸셜뉴스" title="" class="media_journalistcard_summary_press_img light_type">
+												<img src="https://mimgnews.pstatic.net/image/upload/office_logo/014/2020/09/18/dark_logo_014_6_20200918175009.png" height="24" alt="파이낸셜뉴스" title="" class="media_journalistcard_summary_press_img dark_type">
+											</span>
+											<span class="media_journalistcard_summary_name">
+												<span class="media_journalistcard_summary_name_inner">
+													<em class="media_journalistcard_summary_name_text">노동균 기자</em>
+												</span>
+											</span>
+											<span class="media_journalistcard_summary_subscribe">
+												<span class="media_journalistcard_summary_subscribe_inner _SUBSCRIBE_COUNT_TEXT_WRAP">
+													<i class="media_journalistcard_summary_subscribe_item">구독자</i> <em class="media_journalistcard_summary_subscribe_value _SUBSCRIBE_COUNT_TEXT">0</em>
+												</span>
+												<span class="media_journalistcard_summary_subscribe_inner _like_cheer_count _LIKE_HIDE">
+													<div class="u_likeit_list_module _reactionModule" id="_cheer_73653_layer" data-sid="JOURNALIST" data-cid="73653" data-ccounttype="period">
+														<span class="u_likeit_list_btn _button" data-type="cheer" data-ishiddenzerocount="true" data-isHiddenLabelAsZeroCount="true">
+															<em class="u_txt _label">응원수</em>
+															<em class="u_cnt _count">0</em>
+														</span>
+													</div>
+												</span>
+											</span>
+										</div>
+									</div>
+								</a>
+							</div>
+							<div class="media_journalistcard_word">
+								<p class="media_journalistcard_word_text">부산 소식을 발 빠르게 전하겠습니다.
+	</p>
+							</div>
+							<div class="media_journalistcard_morenews">
+								<ul class="media_journalistcard_morenews_list">
+									<li class="media_journalistcard_morenews_item">
+										<a href="/mnews/article/014/0004847160" class="media_journalistcard_morenews_item_inner" data-clk="bestart">부산롯데百, MZ 타깃 온라인 영 디자이너 브랜드 한자리에</a>
+									</li>
+									<li class="media_journalistcard_morenews_item">
+										<a href="/mnews/article/014/0004847075" class="media_journalistcard_morenews_item_inner" data-clk="bestart">부산시, 제67회 현충일 추념식 개최</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="_RECOMMEND_JOURNALIST" class="media_journalistcard_recommend media_journalistcard_recommend_is_on" style="display:none;">
+						<div class="media_journalistcard_recommend_inner">
+							<h4 class="media_journalistcard_recommend_title _RECOMMEND_JOURNALIST_WRAP">파이낸셜뉴스의 구독 많은 기자</h4>
+							<script type="x-tmpl-mustache" class="_RECOMMEND_JOURNALIST_TEMPLATE">
+							<ul class="media_journalistcard_recommend_list">
+								{{#list}}
+								<li class="media_journalistcard_recommend_item _SUBSCRIBE_ELE" data-subscribe-type="JOURNALIST">
+									<div class="media_journalistcard_recommend_item_inner">
+										<a href="{{reporterUrl}}" class="media_journalistcard_recommend_item_link" data-clk="bmmore">
+											{{#imageUrl}}
+											<span class="media_journalistcard_recommend_img_wrap"><img src="{{imageUrl}}" width="44" height="44" alt="" class="media_journalistcard_recommend_img"></span>
+											{{/imageUrl}}
+											<em class="media_journalistcard_recommend_name">{{reporterName}}</em>
+										</a>
+										{{#count}}
+										<span class="media_journalistcard_recommend_subscribe">구독자 <em class="_SUBSCRIBE_COUNT_TEXT">{{count}}</em></span>
+										{{/count}}
+										<div class="subscribe_wrap">
+											<a href="#" class="subscribe _SUBSCRIBE" data-channelKey="{{channelKey}}" data-clk="bmsubs">
+												<span class="subscribe_ico"><span>구독</span></span>
+											</a>
+											<a href="#" class="subscribe on _UNSUBSCRIBE" data-channelKey="{{channelKey}}" data-type="journalist" data-messageValue="{{reporterName}}" data-clk="bmunsubs" style="display:none;">
+												<span class="subscribe_ico"><span>구독중</span></span>
+											</a>
+										</div>
+									</div>
+								</li>
+								{{/list}}
+							</ul>
+							</script>
+							<div class="media_journalistcard_recommend_channel _JOURNALIST_CHANNEL_PROMOTION">
+								<strong>파이낸셜뉴스</strong> 기사를 더 보고 싶다면?
+								<button type="button" class="media_journalistcard_recommend_channel_add _JOURNALIST_CHANNEL_BANNER _CHANNEL_ADD" data-clk-add="chsub" data-clk-remove="chsubback" data-gdid="014" data-delay="1000">구독</button>
+								<a href="#" id="_JOURNALIST_CHANNEL_LAYER_014_0004849526" class="media_journalistcard_recommend_channel_layer _LINK" data-url-type="NAVERAPP_NEWS_CHANNEL" style="display:none;">
+									<span class="media_journalistcard_recommend_channel_layer_text"><strong>파이낸셜뉴스</strong> 언론사 구독되었습니다. <br>메인 뉴스판에서 파이낸셜뉴스 주요뉴스를 <br> 볼 수 있습니다.</span>
+									<span class="media_journalistcard_recommend_channel_layer_link">보러가기</span>
+								</a>
+								<p id="_JOURNALIST_CHANNEL_REMOVE_LAYER_014_0004849526" class="media_journalistcard_recommend_channel_layer" style="display:none">
+									<span class="media_journalistcard_recommend_channel_layer_text"><strong>파이낸셜뉴스</strong> 언론사 구독 해지되었습니다.</span>
+								</p>
+							</div>
+							<a href="#" class="media_journalistcard_recommend_close _TOGGLE" data-target="_RECOMMEND_JOURNALIST" data-clk="bmclose">닫기</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="copyright">
+		<div class="c_inner">
+			<p class="c_text">Copyright ⓒ 파이낸셜뉴스. All rights reserved. 무단 전재 및 재배포 금지.</p>
+		</div>
+	</div>	<div class="media_end_categorize">
+		<a href="#" class="media_end_categorize_link _categorize_title _TOGGLE" data-target="_ARTICLE_SECTION_GUIDE_LAYER">이 기사는 언론사에서 <em class="media_end_categorize_item">사회</em> 섹션으로 분류했습니다.</a>
+		<div id="_ARTICLE_SECTION_GUIDE_LAYER" class="media_end_categorize_ct">
+			<em class="media_end_categorize_ct_title">기사 섹션 분류 안내</em>
+			<p class="media_end_categorize_ct_p">기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다. 언론사는 개별 기사를 2개 이상 섹션으로 중복 분류할 수 있습니다.</p>
+			<a href="#" class="media_end_categorize_ct_close _CLOSE" data-target="_ARTICLE_SECTION_GUIDE_LAYER">닫기</a>
+		</div>
+	</div>
+	<div id="channelBanner" style="display:none;">
+		<div class="media_end_channel_banner _LAZY_LOADING_WRAP">
+			<a href="#" class="media_end_channel_banner_link _CHANNEL_BANNER _CHANNEL_ADD" data-clk-add="chbanner014" data-clk-remove="chsee014" data-notification="true" data-notification-clk="notbb">
+				<div class="media_end_channel_banner_head _LAZY_LOADING_ERROR_HIDE">
+					<div class="media_end_channel_banner_img">
+						<img data-src="https://mimgnews.pstatic.net/image/upload/office_logo/014/2021/05/17/logo_014_57_20210517104636.png" class="_LAZY_LOADING _LAZY_LOADING_INIT_HIDE" width="40" height="40" alt="파이낸셜뉴스" style="display:none;">
+					</div>
+				</div>
+				<div class="media_end_channel_banner_body _before _CHANNEL_BANNER_ADD">
+					<p class="media_end_channel_banner_add">구독</p>
+					<p class="media_end_channel_banner_txt"><span class="media_end_channel_banner_span"><strong>메인에서</strong> 바로 보는 언론사 편집 뉴스 지금 바로 구독해보세요!</span></p>
+				</div>
+				<div class="media_end_channel_banner_body _after _CHANNEL_BANNER_REMOVE is_hidden">
+					<p class="media_end_channel_banner_add is_disabled">구독중</p>
+					<p class="media_end_channel_banner_txt"><span class="media_end_channel_banner_span"><strong>메인에서</strong> 바로 보는 언론사 편집 뉴스 지금 바로 확인해보세요!</span> <em>보러가기</em></p>
+				</div>
+			</a>
+		</div>
+	</div>
+	<div id="channelBannerRecommendList"></div>
+	<script type="x-tmpl-mustache" class="_CHANNEL_BANNER_RECOMMEND_LIST">
+	<div class="office_preference _CHANNEL_BANNER_RECOMMEND_LIST_WRAP">
+	<div class="ofpr_recommend">
+		<div class="ofpr_recommend_inner">
+			<div class="ofpr_more_link">
+				<h4 class="ofpr_tit">추가 구독해보세요</h4>
+			</div>
+			<ul class="ofpr_channel">
+				{{#recommendList}}
+				<li class="ofpr_item">
+					<a href="#" class="ofpr_a _ALL_OFFICES_ITEM" data-officeId="{{officeId}}" data-officename="{{name}}" data-logo="{{logo}}" role="checkbox" aria-checked="false" data-clk-add="chwith" data-clk-remove="chwithno" data-target="_CHANNEL_BANNER_RECOMMEND_LIST_WRAP">
+						<div class="ofpr_thumb"><img src="{{logo}}" class="ofpr_m" alt=""></div>
+						<div class="ofpr_text">{{name}}</div>
+						<span class="ofpr_badge">언론사 추가</span>
+					</a>
+				</li>
+				{{/recommendList}}
+			</ul>
+			<div class="ofpr_btn_wrap">
+				<button type="button" class="ofpr_btn_more _ALL_OFFICE_LIST" data-clk="chwithall">언론사 전체보기</button>
+				<button type="button" class="ofpr_btn_confirm _ALL_OFFICES_COMPLETE disabled" data-clk-disabled="chwithsetall" data-clk-enabled="chwithchoice" data-target="_CHANNEL_BANNER_RECOMMEND_LIST_WRAP">언론사 전체 선택</button>
+			</div>
+			<button type="button" class="ofpr_recommend_close _TOGGLE" data-target="channelBannerRecommendList" data-clk="chclosing">닫기</button>
+		</div>
+	</div>
+	</div>
+	</script>
+	<div class="promotion">
+		<ul class="p_list">
+			<li class="p_item">
+				<a href="https://www.fnnews.com/pineapple.html?utm_source&#x3D;naver&amp;amp;utm_medium&#x3D;naver_arcview&amp;amp;utm_campaign&#x3D;pineapple" class="p_link" data-clk="promo">쏟아지는 금융이슈에 더부룩할 땐 [파인애플]</a>
+			</li>
+			<li class="p_item">
+				<a href="https://www.fnnews.com/moasis?utm_source&#x3D;naver&amp;amp;utm_medium&#x3D;naver_arcview&amp;amp;utm_campaign&#x3D;moasis" class="p_link" data-clk="promo">모(毛)가 문제인지 모를 때 [모아시스]</a>
+			</li>
+		</ul>
+	</div>	<div class="media_end_linked">
+		<h3 class="media_end_linked_title">
+			<a href="http://www.fnnews.com/" class="media_end_linked_title_inner">
+				<img src="https://mimgnews.pstatic.net/image/upload/office_logo/014/2020/09/18/logo_014_6_20200918175030.png" width="" height="26" alt="파이낸셜뉴스" title="파이낸셜뉴스" class="media_end_linked_title_img light_type">
+				<img src="https://mimgnews.pstatic.net/image/upload/office_logo/014/2020/09/18/dark_logo_014_6_20200918175009.png" width="" height="26" alt="파이낸셜뉴스" title="파이낸셜뉴스" class="media_end_linked_title_img dark_type">
+			</a>
+			주요뉴스<span class="media_end_linked_title_desc">해당 언론사에서 선정하며 <em>언론사 페이지(아웃링크)</em>로 이동해 볼 수 있습니다.</span>
+		</h3>
+		<ul class="media_end_linked_list">
+			<li class="media_end_linked_item"><a href="https://www.fnnews.com/news/202206080844584056?utm_source=naver&utm_medium=naver_related&utm_campaign=202206091819321171&pg=nv_related" target="_blank" class="media_end_linked_item_inner" data-clk="are.link" data-gdid="014" data-extra="{&quot;lk&quot;:{&quot;oid&quot;:&quot;014&quot;,&quot;aid&quot;:&quot;28410ff4b2c3f434&quot;}}">모델 출신 여배우 "내 가슴 만질 수 있는 유일한 다른 남자는.."</a></li>
+			<li class="media_end_linked_item"><a href="https://www.fnnews.com/news/202206070646152938?utm_source=naver&utm_medium=naver_related&utm_campaign=202206091819321171&pg=nv_related" target="_blank" class="media_end_linked_item_inner" data-clk="are.link" data-gdid="014" data-extra="{&quot;lk&quot;:{&quot;oid&quot;:&quot;014&quot;,&quot;aid&quot;:&quot;660190837699dd03&quot;}}">월미도 놀이기구서 추락한 10살 소녀, 타기 전 남긴 말이.. 소름</a></li>
+			<li class="media_end_linked_item"><a href="https://www.fnnews.com/news/202206070919315108?utm_source=naver&utm_medium=naver_related&utm_campaign=202206091819321171&pg=nv_related" target="_blank" class="media_end_linked_item_inner" data-clk="are.link" data-gdid="014" data-extra="{&quot;lk&quot;:{&quot;oid&quot;:&quot;014&quot;,&quot;aid&quot;:&quot;f994619e2697da1e&quot;}}">최순실 속 터지겠네.. 3년전 126억에 판 빌딩 현재 가격이 '깜놀'</a></li>
+			<li class="media_end_linked_item"><a href="https://www.fnnews.com/news/202206071346151267?utm_source=naver&utm_medium=naver_related&utm_campaign=202206091819321171&pg=nv_related" target="_blank" class="media_end_linked_item_inner" data-clk="are.link" data-gdid="014" data-extra="{&quot;lk&quot;:{&quot;oid&quot;:&quot;014&quot;,&quot;aid&quot;:&quot;f285c055291ec295&quot;}}">경매 사이트에 실수로 '상체 올누드' 사진 올린 26세女, 반응이..</a></li>
+			<li class="media_end_linked_item"><a href="https://www.fnnews.com/news/202206081606263974?utm_source=naver&utm_medium=naver_related&utm_campaign=202206091819321171&pg=nv_related" target="_blank" class="media_end_linked_item_inner" data-clk="are.link" data-gdid="014" data-extra="{&quot;lk&quot;:{&quot;oid&quot;:&quot;014&quot;,&quot;aid&quot;:&quot;ba1a6cde20240ede&quot;}}">"저 사실 E컵".. 뜻밖의 글래머 몸매 당당히 공개한 그 시절 얼짱</a></li>
+		</ul>
+	</div>
+	<div class="r_group_comp ad_box _da_banner is_border_none">
+		<div id="nmap_c_014_0004849526_102_1" class="ad_area _AD_WRAP _PERSIST_HEIGHT" data-unitid="p_news_newsend" data-mobileonly="false" data-persist="1_ad" data-sync="false" data-article="false"></div>
+	</div>
+	<script>
+	window.__htExternalUrl = window.__htExternalUrl || {};
+	window.__htExternalUrl["like"] = "https://news.like.naver.com/js/reaction/dist/reaction.min.js";
+	window.__htLikeOption = {
+		type: "multi",
+		cssId: "news",
+		domain: "https://news.like.naver.com",
+		isMobile: true,
+		isHiddenLabel: false,
+		isHiddenCount: false,
+		isHiddenZeroCount: false,
+		isUsedLabelAsZeroCount: false,
+		isDebugMode: false,
+		isDuplication: false,
+		isHiddenLayerAfterSelection: true,
+		clicklog: function(el, name) {
+			nclkWrap.send({
+				$this: $(el),
+				sArea: name
+			});
+		}
+	};
+	window.__htLikeOption["isZeroFace"] = true;
+	</script>
+	<div class="ends_btn _PERSIST_HEIGHT _LIKE_HIDE as_likeit_improve" data-persist="0_faceLike">
+		<div class="ends_btn_head">
+			<strong class="ends_head_title">이 기사를 추천합니다</strong>
+			<button type="button" class="ends_help_btn _TOGGLE" data-clk="RTC.info" data-target="_LIKE_INFO_LAYER" data-classValue="is_hidden"></button>
+			<div id="_LIKE_INFO_LAYER" class="ends_help_layer is_hidden">
+				<p class="ends_help_desc">기사 추천은 24시간 내 50회까지 참여할 수 있습니다.</p>
+				<button class="ends_help_close _TOGGLE" data-clk="RTC.infoclose" data-target="_LIKE_INFO_LAYER" data-classValue="is_hidden"><span class="blind">닫기</span></button>
+			</div>
+		</div>
+		<div class="_reactionModule u_likeit" data-sid="NEWS" data-cid="ne_014_0004849526" id="likeItCountViewDiv" style="visibility: visible;">
+			<ul class="u_likeit_layer _faceLayer" role="menu">
+				<li class="u_likeit_list useful" role="menuitem">
+					<a class="u_likeit_list_button _button off" data-type="useful" data-log="RTC.useful|RTC.unuseful" href="#" role="button" aria-selected="false" aria-pressed="false">
+						<span class="u_likeit_list_name _label">쏠쏠정보</span>
+						<span class="u_likeit_list_count _count">0</span>
+					</a>
+				</li>
+				<li class="u_likeit_list wow" role="menuitem">
+					<a class="u_likeit_list_button _button off" data-type="wow" data-log="RTC.wow|RTC.unwow" href="#" role="button" aria-selected="false" aria-pressed="false">
+						<span class="u_likeit_list_name _label">흥미진진</span>
+						<span class="u_likeit_list_count _count">0</span>
+					</a>
+				</li>
+				<li class="u_likeit_list touched" role="menuitem">
+					<a class="u_likeit_list_button _button off" data-type="touched" data-log="RTC.touched|RTC.untouched" href="#" role="button" aria-selected="false" aria-pressed="false">
+						<span class="u_likeit_list_name _label">공감백배</span>
+						<span class="u_likeit_list_count _count">0</span>
+					</a>
+				</li>
+				<li class="u_likeit_list analytical" role="menuitem">
+					<a class="u_likeit_list_button _button off" data-type="analytical" data-log="RTC.analytical|RTC.unanalytical" href="#" role="button" aria-selected="false" aria-pressed="false">
+						<span class="u_likeit_list_name _label">분석탁월</span>
+						<span class="u_likeit_list_count _count">0</span>
+					</a>
+				</li>
+				<li class="u_likeit_list recommend" role="menuitem">
+					<a class="u_likeit_list_button _button off" data-type="recommend" data-log="RTC.recommend|RTC.unrecommend" href="#" role="button" aria-selected="false" aria-pressed="false">
+						<span class="u_likeit_list_name _label">후속강추</span>
+						<span class="u_likeit_list_count _count">0</span>
+					</a>
+				</li>
+			</ul>	</div>
+		<div id="likeItSTimeLineShareDiv" style="display:none" class="u_likeit_module u_btn_likeit_on"></div>
+		<div id="likeItScrollDiv" style="display:none" class="u_likeit_module">
+			<div class="u_likeit_friends" id="likeItFriendListDiv"></div>
+		</div>
+	</div>	<div class="ends_addition" id="endAdditionContainer">
+	
+	
+		<script>
+			window.__htExternalUrl = window.__htExternalUrl || {};
+			window.__htExternalUrl["share"] = "https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js";
+			window.__htShareOption = {
+				"scriptUrl": window.__htExternalUrl["share"],
+				"evKey": "news",
+				"dimmed": "fixed",
+				"serviceName": "뉴스",
+				"sourceName": "파이낸셜뉴스"
+			};
+			if (isAvailableDarkMode) {
+				window.__htShareOption["darkMode"] = true;
+			}
+		</script>
+		<div id="spiLayer" style="display:none;">
+			<div class="spi_wrap layer_share_on">
+				<div class="spi">
+					<div class="spug">
+						<a href="#" class="naver-splugin _spi_release spi_ico _btn_postbtn sns_share" data-clk="dshr"
+						   data-style="type_a"
+						   data-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102"
+						   data-title="부산 모범납세자, 프로야구 시구·시타"
+						   data-likeServiceId="NEWS"
+						   data-likeContentsId="ne_014_0004849526"
+						   data-mail-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=mail"
+						   data-blog-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=blog"
+						   data-blog-source-type="3"
+						   data-blog-blog-id="naver"
+						   data-cafe-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=cafe"
+						   data-cafe-source-type="3"
+						   data-memo-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=memo"
+						   data-calendar-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=calendar"
+						   data-band-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=band"
+						   data-line-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=line"
+						   data-kakaotalk-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=kakao"
+						   data-kakaostory-display="off"
+						   data-kakaotalk-image-url="https://imgnews.pstatic.net/image/014/2022/06/09/0004849526_001_20220609182007284.jpg?type=nf300_200"
+						   data-facebook-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=facebook"
+						   data-twitter-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=twitter"
+						   data-mypeople-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=mypeople"
+						   data-friend-display="on"
+						   data-friend-url="https://n.news.naver.com/mnews/article/014/0004849526?sid&#x3D;102&amp;lfrom=friend"
+						   data-button="postbtn"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div id="_TOMAIN_INFO" class="tomain_info _LIKE_HIDE" style="display: none;">
+			<p class="tomain_info_layer">
+				<strong class="tomain_info_head">모두에게 보여주고 싶은 기사라면<i>?</i><span class="tomain_info_betaicon">beta</span></strong>
+				<span class="tomain_info_body">
+					<strong class="tomain_info_point">이 기사를 추천합니다 </strong><span class="tomain_info_text">버튼을 눌러주세요. <br> 집계 기간 동안 추천을 많이 받은 기사는 네이버 자동 기사배열 영역에 추천 요소로 활용됩니다.</span>
+				</span>
+				<a href="#" class="tomain_info_close _CLOSE" data-target="_TOMAIN_INFO">레이어 닫기</a>
+			</p>
+		</div>
+	</div>	<div class="media_end_linked_more">
+		<div class="media_end_linked_more_inner">
+			<a href="https://media.naver.com/press/014" class="media_end_linked_more_link" data-clk="phome" data-gdid="014"><em class="media_end_linked_more_point">파이낸셜뉴스</em> 언론사홈 바로가기</a>
+		</div>
+	</div>
+	<script>
+		window.__htExternalUrl = window.__htExternalUrl || {};
+		window.__htExternalUrl["tip"] = "https://ssl.pstatic.net/dicimg/tip/tip_m.js";
+		window.__htExternalUrl["pcTip"] = "https://ssl.pstatic.net/dicimg/tip/tip_pc.js";
+	
+		window.__htExternalUrl["handOff"] = {
+			"category": "news_article",
+			"apiDomain": "https://sidekick.fever.naver.com"
+		};
+	</script>	<div id="_MODAL_LAYER_FOR_UNSUBSCRIBER_PROMOTION" class="subscribe_cta_layer">
+		<button type="button" class="cta_btn as_subscribe _CHANNEL_ADD" data-clk-add="mediaflw" data-delay="1000" data-notification="true">
+			<span class="cta_text"><em class="cta_text_em">언론사 구독 후</em> 기사보기</span>
+			<i class="cta_arrow"></i>
+		</button>
+		<button type="button" class="cta_btn _UNSUBSCRIBER_PROMOTION_CLOSE" data-clk="medianoflw">
+			<span class="cta_text"><em class="cta_text_em">구독 없이</em> 계속 보기</span>
+			<i class="cta_arrow"></i>
+		</button>
+	</div>
+</div>
+</div>
+	<div class="box1 more_news2">
+<h4>
+더 많은 콘텐츠를 만나는 방법
+</h4>
+<div class="type2">
+<a class="thumb" href='https://blog.naver.com/premiumcontents/222752628402' onClick="nclk(event,'wit.img','','1');"><img width="115" height="80" alt="섬네일 이미지" src="https://imgnews.pstatic.net/image/upload/item/2022/02/07/174834662_230x160.png" onError="javascript:this.src='https://imgnews.pstatic.net/image/news/2009/noimage_120x90.gif';this.style.width=115;this.style.height=80;"><span class="frame"></span></a>
+<a href='https://blog.naver.com/premiumcontents/222752628402' onClick="nclk(event,'wit.tit','','1');">
+<strong> 망설이지 말고 똑똑! 당신의 고민을 들어드립니다.</strong>
+<p>무엇을 해야 할지, 어디로 가야 할지 고민인 당신을 위해! 걱정은 함께 나눠요~
+</p>
+</a>
+</div>
+</div>
+
+<div id="frontDetect" class="check_visible"></div>
+<div class="office_headline more_news optional_hidden pc_hidden _FLICKING_WRAP _OFFICE_HEADLINE _PERSIST_HEIGHT _PERSIST_META" data-persist="3_officeHeadline" data-count="3" data-flicking-nclk="false" data-nclk-prefix="art" data-grid-template-column-aside="">
+	<div class="ofhe_head">
+		<div class="ofhe_head_inner">
+				<h2 class="ofhe_head_title">
+					<a href="https://media.naver.com/press/014" class="ofhe_head_title_link" data-clk="art.pheadhome">
+						<em>파이낸셜뉴스</em> 헤드라인
+					</a>
+				</h2>
+		</div>
+	</div>
+	<div class="ofhe_body flick">
+		<div class="flick-container _FLICKING" style="height: 161px; opacity:0;">
+				<div class="flick-panel">
+					<ul class="ofhe_list">
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/014/0004849403" class="ofhe_link" data-clk="art.phead">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849403.jpg?type&#x3D;nf336_206&amp;ut&#x3D;20220609161105" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">내년도 최저임금 얼마?…"어느 해보다 높은 인상" vs  "일자리 사라진다"</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">[파이낸셜뉴스] 내년도 최저임금 인상 수준을 두고 노사가 극명한 입장차를 재확인했다. 노동계는 저임금 노동자 보호를 위해 어느 때보다 높은 수준의 최저임금 인상을, 경영계는 최저임금의 안정을 주장했다. 최저임금위원회</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/014/0004849447" class="ofhe_link" data-clk="art.phead">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849447.jpg?type&#x3D;nf336_206&amp;ut&#x3D;20220609171603" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">김경협  ″北핵실험 거의 예고돼...상황 악화시 해법 모색해야"</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">[파이낸셜뉴스]21대 국회 전반기 정보위원장을 지낸 김경협 더불어민주당 의원은 8일(미국 현지시간) 북한의 7차 핵실험 가능성과 관련, &quot;대화가 계속 이뤄지지 않을 경우 핵실험은 거의 예고돼 있는 게 아니겠느냐&quot;고 </div>
+								</a>
+							</li>
+					</ul>
+				</div>
+				<div class="flick-panel">
+					<ul class="ofhe_list">
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/014/0004849430" class="ofhe_link" data-clk="art.phead">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849430.jpg?type&#x3D;nf336_206&amp;ut&#x3D;20220609171604" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">[단독]폴란드 軍평가단 비공개 방한, 韓무기 구매 속도전</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">[파이낸셜뉴스] 폴란드 정부가 한국산 무기 구매에 속도를 내는 가운데 폴란드 육군·공군 평가단이 극비리에 방한해 국내 방위산업체들을 비롯해 군 당국과 두루 접촉을 갖고 대량 무기 구입을 논의중인 것으로 알려졌다. 마</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/014/0004849374" class="ofhe_link" data-clk="art.phead">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849374.jpg?type&#x3D;nf336_206&amp;ut&#x3D;20220609154806" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">檢, '산자부 블랙리스트 의혹' 백운규 전 장관 소환 조사</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">[파이낸셜뉴스] 문재인 정부 당시 산업통상자원부가 임기가 끝나지 않은 산하 공기업 사장들에게 사퇴를 종용했다는 이른바 &#x27;산업부 블랙리스트&#x27; 의혹을 수사 중인 검찰이 백운규 전 산업부 장관을 소환해 조사 중이다. 9일</div>
+								</a>
+							</li>
+					</ul>
+				</div>
+				<div class="flick-panel">
+					<ul class="ofhe_list">
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/014/0004849375" class="ofhe_link" data-clk="art.phead">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849375.jpg?type&#x3D;nf336_206&amp;ut&#x3D;20220609153502" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">벌금형 받은 유시민 "한동훈, 부끄러워하는 마음 있어야 한다"</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">[파이낸셜뉴스]한동훈 법무장관 명예훼손 혐의 사건 1심에서 벌금형을 선고받은 유시민 전 노무현재단 이사장은 9일 &quot;내가 유죄를 받았다고 해서 한동훈씨가 검사로서 상 받을 일을 한 것은 아니다&quot;고 말했다. 이날 서울서</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/014/0004848937" class="ofhe_link" data-clk="art.phead">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4848937.jpg?type&#x3D;nf336_206&amp;ut&#x3D;20220609074703" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">13살 친딸 수차례 성폭행하고 "친구 소개시켜줘"..40대 남성 징역12년형</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">[파이낸셜뉴스] 초등학생이던 친딸을 수차례 성폭행하고 학대한 혐의로 재판에 넘겨진 40대 친부에게 법원이 징역 12년 형을 선고했다. 지난 8일 법조계에 따르면 대구지방법원 포항지원 제1형사부(부장판사 권순향)는 성</div>
+								</a>
+							</li>
+					</ul>
+				</div>
+		</div>
+	</div>
+	<div class="ofhe_paginate pg">
+		<div class="pg_num_area pg_num_area_v2">
+			<button type="button" class="pg_btn_prev _FLICKING_PREV"><span class="blind">이전 뉴스들 보기</span></button>
+			<div class="_FLICKING_INDICATOR" data-count="3"></div>
+			<div class="pg_line"></div>
+			<div class="pg_num pg_num">3</div>
+			<button type="button" class="pg_btn_next _FLICKING_NEXT"><span class="blind">다음 뉴스들 보기</span></button>
+		</div>
+	</div>
+	<script type="x-tmpl-mustache" class="_FLICKING_INDICATOR_TEMPLATE _PC">
+	{{#selected}}
+		<div class="pg_num pg_num_cur">{{number}}</div>
+	{{/selected}}
+	</script>
+</div>
+		<script>
+			window.__htExternalUrl = window.__htExternalUrl || {};
+			window.__htExternalUrl["comment"] = "https://ssl.pstatic.net/static.cbox/js/cbox.core.js";
+			window.__htCboxOption = {"htMessage":{"template":{"user":{"profile":{"help":{"last":{"help_desc":"최근 30일간 작성한 댓글의 정보를 요약해 보여줍니다. 작성대비 본인의 삭제비율<em>(본인삭제율)</em>과 작성글이 받은 피드백 중 공감비율<em>(받은공감률)</em>을 표기합니다. <br/>이때, 받은공감률은 댓글 삭제로 변동된 정보를 반영하지 않습니다."}},"title":"뉴스 댓글모음"},"header":{"help":{"content":"댓글목록을 공개한 사용자의 댓글모음이 제공됩니다. 나의 댓글 모음에서 다른 사람에게 공개 또는 비공개 설정을 할 수 있습니다. 제공되는 목록에 삭제댓글/답글은 포함하지 않습니다.","title":"뉴스댓글 도움말"}}},"social_login_message":"계정을 선택하시면 <span class=\"u_cbox_msg_point\">로그인&middot;계정인증</span>을 통해<br> 댓글을 남기실 수 있습니다.<br>뉴스서비스에서는 소셜 계정 사용이 불가하며<br>댓글모음만 확인하실 수 있습니다.","write_placeholder":"댓글을 입력해주세요","sort_favorite":"순공감순","duplicate_caution_link_address_pc":"https://news.naver.com/main/principle.naver","duplicate_caution_link_address_mobile":"https://m.news.naver.com/ombudsman/index?mode=rule&open=comment","duplicate_caution_link_title":"운영규정 자세히 알아보기","duplicate_caution_cont":"반복 등록이 계속될 경우 운영규정에 따라 <br>서비스 이용이 정지될 수 있습니다.","duplicate_caution_title":"동일 내용 댓글의 반복 등록이<br>확인되었습니다.","write_long_placeholder":"저작권 등 다른 사람의 권리를 침해하거나 명예를 훼손하는 게시물은 이용약관 및 관련 법률에 의해 제재를 받을 수 있습니다. 건전한 토론문화와 양질의 댓글 문화를 위해, 타인에게 불쾌감을 주는 욕설 또는 특정 계층/민족, 종교 등을 비하하는 단어들은 표시가 제한됩니다.","help_titles":["댓글이력공개안내","댓글노출정책"],"info_comment_off":"<em>파이낸셜뉴스</em> 댓글 정책에 따라<br>이 기사에서는 댓글을 제공하지 않습니다.","view_all":"댓글 더보기","help_contents":["작성자가 삭제한 댓글(작성자 삭제), 운영자가 삭제한 댓글(규정 미준수) 그리고 삭제되지 않은 현재 남은 댓글의 수와 이력을 투명하게 제공합니다.","순공감순은 공감수에서 비공감수를 뺀 수치가 많은 댓글입니다. 비정상적인 방법으로 공감수가 증가하는 경우 제외될 수 있습니다."],"reply_close":"답글 접기","list_empty":"댓글이 없습니다.<br>첫번째 댓글을 남겨주세요.","comment_link":"이 기사의 댓글 전체보기"},"stats":{"title":"누가 댓글을 썼을까요?","view":"통계","fold":"접기","user_env_title":"어디에서 댓글을 썼을까요?"},"alert":{"max_length":"{0}자까지 입력할 수 있습니다.","login_require":"로그인을 하신 후 이용해 주시기 바랍니다.","min_length":"내용을 최소 {0}자 이상 입력해주세요."}},"nPageSize":5,"sObjectId":"news014,0004849526","sLikeItId":"ne_014_0004849526","sTicket":"news","nUserCommentReplyPageSize":10,"sAuthType":"naver","sTemplateId":"view_society","htErrorHandler":{"3003":"고객님께서는 운영원칙에서 제한하고 있는 글을 작성하셨기 때문에 글쓰기를 포함한 일부 활동이 일정 기간 제한되었습니다. 동일 내용 댓글의 반복작성이 확인된 경우 제한기간은 1일이며, 반복이 계속되면 기간이 연장될 수 있습니다.","3004":"고객님께서는 운영원칙에서 제한하고 있는 글을 다수 작성하셨기 때문에 글쓰기를 포함한 일부​ 활동이 일정 기간 제한되었습니다.","3005":"고객님의 IP는 운영원칙에서 제한하고 있는 글을 작성하셨기 때문에 글쓰기를 포함한 일부​ 활동이 제한되었습니다.","3006":"고객님께서는 운영원칙에서 제한하고 있는 글을 작성하셨기 때문에 무기한 글쓰기를 포함한 일부​ 활동이 제한되었습니다.","3011":"파이낸셜뉴스 댓글 정책에 따라 이 기사에서는 댓글을 제공하지 않습니다.","4004":"해당되는 댓글이 없습니다.","5003":"정상적으로 반영되지 않았습니다. 화면 새로고침 후 다시 시도해 주세요.","5006":"자신의 글에 공감 할 수 없습니다.","5008":"자신의 글에 비공감 할 수 없습니다.","5010":"댓글/답글은 60초 내에 한 개만 등록하실 수 있습니다.","5026":"공감/비공감은 최근 24시간내 50회까지 가능합니다.","5027":"공감/비공감은 10초 내에 한 번만 클릭하실 수 있습니다.","5029":"기사당 허용된 댓글 수 3개를 초과하였습니다.","5080":"실명확인을 받지 않은 아이디는 가입 이후 7일이 지난 시점부터 댓글 활동이 가능합니다.","5091":"본인 확인이 되지 않은 계정입니다. 본인 확인 후 다시 시도해주세요."},"bSortCookie":true,"bMobile":false,"bShowReply":false,"bManager":false,"sDomain":"https://ssl.pstatic.net/static.cbox","sCountry":"KR","nUserCommentPageSize":20,"sLanguage":"ko","sDateFormat":"Y.m.d. H:i","sCommentNo":"","sPageType":"more","sHelp":"down","sSort":"relative","sApiDomain":"https://apis.naver.com/commentBox/cbox5","nFollowSize":5,"nFeedPageSize":50,"bIncludeAllComments":true,"sCountType":"comment","aFormation":["count","graph","write","notice","list","view"],"bByCountry":false,"bUseAgo":false,"nReplyPageSize":20,"sCssId":"news_w"};
+			window.__htCboxOption["bLogin"] = isLogin;
+			window.__htCboxOption["bMobile"] = false;
+			window.__htCboxOption["sHighlightColor"] = "rgba(124, 255, 182, 0.06)";
+			window.__htCboxOption["vViewAllHandler"] = function() {
+				window.location.href = "/mnews/article/comment/014/0004849526?sid=102";
+			};
+		</script>
+			<div id="_COMMENT_NOTICE" class="changecmt" style="display:none;">
+				<p class="changecmt_p _LAZY_LOADING_WRAP">
+					<span class="changecmt_image _LAZY_LOADING_ERROR_HIDE"><img data-src="https://mimgnews.pstatic.net/image/upload/office_logo/014/2021/05/17/logo_014_57_20210517104636.png" class="changecmt_img _LAZY_LOADING" alt=""></span><em>파이낸셜뉴스</em>가 이 기사의 댓글 정책을 결정합니다.
+					<span class="changecmt_info">
+						<button type="button" class="changecmt_info_icon _layer_notice_btn _TOGGLE" data-target="_COMMENT_NOTICE_INFO_LAYER" data-classValue="is_hidden">안내</button><span id="_COMMENT_NOTICE_INFO_LAYER" class="changecmt_layer _layer_notice is_hidden">
+							<strong class="changecmt_info_title"><span class="changecmt_ico_help"></span>댓글 정책 언론사별 선택제</strong>
+							<span class="changecmt_info_txt">섹션별로 기사의 댓글 제공여부와 정렬방식을 <br>언론사가 직접 결정합니다. 기사 섹션 정보가<br>정치를 포함해 중복 분류된 경우 정치섹션 정책이 적용됩니다. 단, 운영규정에 따른<br>삭제나 이용제한 조치는 네이버가 직접<br>수행합니다.</span>
+							<button class="changecmt_btn_info_close _close_layer _TOGGLE" data-target="_COMMENT_NOTICE_INFO_LAYER" data-classValue="is_hidden">레이어 닫기</button>
+						</span>
+					</span>
+				</p>
+			</div>
+		<div id="cbox_module" class="_COMMENT _COMMENT_HIDE">
+		</div><div class="rankingnews mobile_hidden is_hidden" data-grid-template-column-aside="true">
+	<div class="ra_head">
+		<strong class="ra_title"><em class="ra_highlight">파이낸셜뉴스</em> 헤드라인</strong>
+		<a href="https://media.naver.com/press/014" class="media_more" data-clk="pheadhome"><span class="blind">더보기</span></a>
+	</div>
+	<div class="ra_area">
+		<div class="flick">
+			<div class="flick-container">
+				<div class="flick-panel">
+					<ul class="ranking_list">
+						<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="/mnews/article/014/0004849403" class="rl_link_end" data-clk="phead">
+								<div class="rl_content">
+									<p class="rl_txt">내년도 최저임금 얼마?…"어느 해보다 높은 인상" vs  "일자리 사라진다"</p>
+									<div class="rl_time">2시간전</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849403.jpg?type&#x3D;nf190_130&amp;ut&#x3D;20220609161105" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="/mnews/article/014/0004849447" class="rl_link_end" data-clk="phead">
+								<div class="rl_content">
+									<p class="rl_txt">김경협  ″北핵실험 거의 예고돼...상황 악화시 해법 모색해야"</p>
+									<div class="rl_time">1시간전</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849447.jpg?type&#x3D;nf190_130&amp;ut&#x3D;20220609171603" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="/mnews/article/014/0004849430" class="rl_link_end" data-clk="phead">
+								<div class="rl_content">
+									<p class="rl_txt">[단독]폴란드 軍평가단 비공개 방한, 韓무기 구매 속도전</p>
+									<div class="rl_time">1시간전</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849430.jpg?type&#x3D;nf190_130&amp;ut&#x3D;20220609171604" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="/mnews/article/014/0004849374" class="rl_link_end" data-clk="phead">
+								<div class="rl_content">
+									<p class="rl_txt">檢, '산자부 블랙리스트 의혹' 백운규 전 장관 소환 조사</p>
+									<div class="rl_time">3시간전</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849374.jpg?type&#x3D;nf190_130&amp;ut&#x3D;20220609154806" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="/mnews/article/014/0004849375" class="rl_link_end" data-clk="phead">
+								<div class="rl_content">
+									<p class="rl_txt">벌금형 받은 유시민 "한동훈, 부끄러워하는 마음 있어야 한다"</p>
+									<div class="rl_time">3시간전</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849375.jpg?type&#x3D;nf190_130&amp;ut&#x3D;20220609153502" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="/mnews/article/014/0004848937" class="rl_link_end" data-clk="phead">
+								<div class="rl_content">
+									<p class="rl_txt">13살 친딸 수차례 성폭행하고 "친구 소개시켜줘"..40대 남성 징역12년형</p>
+									<div class="rl_time">10시간전</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4848937.jpg?type&#x3D;nf190_130&amp;ut&#x3D;20220609074703" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+									</div>
+								</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		<div class="r_group_comp ad_box _da_banner is_border_none mobile_hidden" data-grid-template-column-aside="true">
+			<div id="nmap_c_014_0004849526_102_2" class="ad_area _AD_WRAP _PERSIST_HEIGHT" data-unitid="p_news_sidebox" data-mobileonly="false" data-persist="2_ad" data-sync="false" data-article="false"></div>
+		</div>
+	<div class="rankingnews optional_hidden is_hidden _FLICKING_WRAP _OFFICE_RANKING_ALL _PERSIST_META" data-persist="3_officeRankingAll" data-aggregation-start="" data-aggregation-end="" data-count="2" data-flicking-nclk="true" data-nclk-prefix="ark" data-flicking-disable="" data-grid-template-column-aside="true">
+		<div class="ra_head">
+			<strong class="ra_title"><em class="ra_highlight">파이낸셜뉴스</em> 랭킹 뉴스</strong>
+				<span class="ra_time _AGGREGATION_TEXT_LIST">오후 5시~6시까지 집계한 결과입니다.</span>
+				<span class="ra_time _AGGREGATION_TEXT_LIST" style="display:none;">오후 3시~6시까지 집계한 결과입니다.</span>
+			<a href="https://media.naver.com/press/014/ranking" class="media_more _MORE_URL_LIST" data-clk="ark.renwsmore"><span class="blind">더보기</span></a>
+			<a href="https://media.naver.com/press/014/ranking?type&#x3D;comment" class="media_more _MORE_URL_LIST" data-clk="ark.cmtnwsmore" style="display:none;"><span class="blind">더보기</span></a>
+		</div>
+
+		<div class="ra_area">
+			<div class="ra_tab _FLICKING_TAB_WRAP">
+				<ul class="ra_tab_list">
+						<li class="ra_tab_item _FLICKING_TAB on" data-index="0" data-expandable="" data-random="false" data-subtab-count="1" data-aggregation-text-visible="" style="opacity:0;">
+							<a href="#" class="ra_tab_a" data-clk="ark.renwstab">많이 본</a>
+						</li>
+						<li class="ra_tab_item _FLICKING_TAB" data-index="1" data-expandable="" data-random="false" data-subtab-count="1" data-aggregation-text-visible="" style="opacity:0;">
+							<a href="#" class="ra_tab_a" data-clk="ark.cmtnwstab">댓글 많은</a>
+						</li>
+				</ul>
+			</div>
+			<div class="flick" style="height:442px;">
+				<div class="flick-container _FLICKING" style="height:442px; opacity:0;">
+						<div class="flick-panel">
+								<ul class="ranking_list _FLICKING_CONTENT" data-index="0" style="margin-top: 0;">
+										<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+											<a href="/mnews/ranking/article/014/0004848922?ntype&#x3D;RANKING" class="rl_link_end" data-clk="ark.renws">
+												<i class="rl_ranking">1</i>
+												<div class="rl_content">
+													<p class="rl_txt">대낮 주차장 알몸 남녀 알고봤더니 부부...주차장에서 부부싸움 했다</p>
+													<div class="rl_time">11시간전</div>
+												</div>
+													<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+														<div class="rl_border">
+															<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4848922.jpg?type&#x3D;nf190_130&amp;ut&#x3D;1654726563000" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+														</div>
+													</div>
+											</a>
+										</li>
+										<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+											<a href="/mnews/ranking/article/014/0004849375?ntype&#x3D;RANKING" class="rl_link_end" data-clk="ark.renws">
+												<i class="rl_ranking">2</i>
+												<div class="rl_content">
+													<p class="rl_txt">벌금형 받은 유시민 "한동훈, 부끄러워하는 마음 있어야 한다"</p>
+													<div class="rl_time">3시간전</div>
+												</div>
+													<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+														<div class="rl_border">
+															<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849375.jpg?type&#x3D;nf190_130&amp;ut&#x3D;1654756502000" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+														</div>
+													</div>
+											</a>
+										</li>
+										<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+											<a href="/mnews/ranking/article/014/0004849403?ntype&#x3D;RANKING" class="rl_link_end" data-clk="ark.renws">
+												<i class="rl_ranking">3</i>
+												<div class="rl_content">
+													<p class="rl_txt">내년도 최저임금 얼마?…"어느 해보다 높은 인상" vs  "일자리 사라진다"</p>
+													<div class="rl_time">2시간전</div>
+												</div>
+													<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+														<div class="rl_border">
+															<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849403.jpg?type&#x3D;nf190_130&amp;ut&#x3D;1654758245000" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+														</div>
+													</div>
+											</a>
+										</li>
+										<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+											<a href="/mnews/ranking/article/014/0004849348?ntype&#x3D;RANKING" class="rl_link_end" data-clk="ark.renws">
+												<i class="rl_ranking">4</i>
+												<div class="rl_content">
+													<p class="rl_txt">스팸 5조각+계란+밥 세트가 1만2000원...'런치플레이션' 실화네</p>
+													<div class="rl_time">3시간전</div>
+												</div>
+													<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+														<div class="rl_border">
+															<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849348.jpg?type&#x3D;nf190_130&amp;ut&#x3D;1654754483000" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+														</div>
+													</div>
+											</a>
+										</li>
+										<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+											<a href="/mnews/ranking/article/014/0004848937?ntype&#x3D;RANKING" class="rl_link_end" data-clk="ark.renws">
+												<i class="rl_ranking">5</i>
+												<div class="rl_content">
+													<p class="rl_txt">13살 친딸 수차례 성폭행하고 "친구 소개시켜줘"..40대 남성 징역12년형</p>
+													<div class="rl_time">10시간전</div>
+												</div>
+													<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+														<div class="rl_border">
+															<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4848937.jpg?type&#x3D;nf190_130&amp;ut&#x3D;1654728423000" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+														</div>
+													</div>
+											</a>
+										</li>
+								</ul>
+						</div>
+						<div class="flick-panel">
+								<ul class="ranking_list _FLICKING_CONTENT" data-index="0" style="margin-top: 0;">
+										<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+											<a href="/mnews/ranking/article/014/0004849375?ntype&#x3D;RANKING" class="rl_link_end" data-clk="ark.cmtnws">
+												<i class="rl_ranking">1</i>
+												<div class="rl_content">
+													<p class="rl_txt">벌금형 받은 유시민 "한동훈, 부끄러워하는 마음 있어야 한다"</p>
+													<div class="rl_time">3시간전</div>
+												</div>
+													<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+														<div class="rl_border">
+															<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849375.jpg?type&#x3D;nf190_130&amp;ut&#x3D;1654756502000" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+														</div>
+													</div>
+											</a>
+										</li>
+										<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+											<a href="/mnews/ranking/article/014/0004849312?ntype&#x3D;RANKING" class="rl_link_end" data-clk="ark.cmtnws">
+												<i class="rl_ranking">2</i>
+												<div class="rl_content">
+													<p class="rl_txt">'음주 측정 거부' 래퍼 노엘, 2심서 공소장 변경 '윤창호법→일반 도로교통법'</p>
+													<div class="rl_time">4시간전</div>
+												</div>
+													<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+														<div class="rl_border">
+															<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849312.jpg?type&#x3D;nf190_130&amp;ut&#x3D;1654752783000" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+														</div>
+													</div>
+											</a>
+										</li>
+										<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+											<a href="/mnews/ranking/article/014/0004849403?ntype&#x3D;RANKING" class="rl_link_end" data-clk="ark.cmtnws">
+												<i class="rl_ranking">3</i>
+												<div class="rl_content">
+													<p class="rl_txt">내년도 최저임금 얼마?…"어느 해보다 높은 인상" vs  "일자리 사라진다"</p>
+													<div class="rl_time">2시간전</div>
+												</div>
+													<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+														<div class="rl_border">
+															<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849403.jpg?type&#x3D;nf190_130&amp;ut&#x3D;1654758245000" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+														</div>
+													</div>
+											</a>
+										</li>
+										<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+											<a href="/mnews/ranking/article/014/0004849156?ntype&#x3D;RANKING" class="rl_link_end" data-clk="ark.cmtnws">
+												<i class="rl_ranking">4</i>
+												<div class="rl_content">
+													<p class="rl_txt">김남국 "이재명, 마음 넓고 따뜻한 사람..더 따뜻하게 품자"</p>
+													<div class="rl_time">7시간전</div>
+												</div>
+													<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+														<div class="rl_border">
+															<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4849156.jpg?type&#x3D;nf190_130&amp;ut&#x3D;1654740126000" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+														</div>
+													</div>
+											</a>
+										</li>
+										<li class="rl_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+											<a href="/mnews/ranking/article/014/0004848922?ntype&#x3D;RANKING" class="rl_link_end" data-clk="ark.cmtnws">
+												<i class="rl_ranking">5</i>
+												<div class="rl_content">
+													<p class="rl_txt">대낮 주차장 알몸 남녀 알고봤더니 부부...주차장에서 부부싸움 했다</p>
+													<div class="rl_time">11시간전</div>
+												</div>
+													<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+														<div class="rl_border">
+															<img data-src="https://mimgnews.pstatic.net/image/origin/014/2022/06/09/4848922.jpg?type&#x3D;nf190_130&amp;ut&#x3D;1654726563000" data-scroll="true" class="_LAZY_LOADING" width="95" height="65" alt="">
+														</div>
+													</div>
+											</a>
+										</li>
+								</ul>
+						</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<div class="_MY_CHANNEL_OFFICE_WRAP pc_hidden" data-grid-template-column-aside="true">
+</div><div class="office_headline more_news optional_hidden is_hidden _FLICKING_WRAP _OFFICE_HEADLINE _PERSIST_HEIGHT _PERSIST_META" data-persist="7_officeHeadline" data-count="5" data-flicking-nclk="true" data-nclk-prefix="arw" data-grid-template-column-aside="true">
+	<div class="ofhe_head">
+		<div class="ofhe_head_inner">
+				<h2 class="ofhe_head_title">함께 볼만한 뉴스</h2>
+				<button type="button" class="ofhe_info_button _TOGGLE" data-target="_ARTICLE_NEXT_AIRS_INFO" data-clk="arw.inftoggle"><span class="blind">안내</span></button>
+				<div id="_ARTICLE_NEXT_AIRS_INFO" class="ofhe_info_layer" style="display:none">
+					<p class="ofhe_info_layer_text">이 기사를 본 이용자들이 함께 많이 본 기사, 해당 기사와 유사한 기사, 관심 기사 등을 자동 추천합니다</p>
+					<button type="button" class="ofhe_info_layer_close _CLOSE" data-target="_ARTICLE_NEXT_AIRS_INFO" data-clk="arw.infclose">닫기</button>
+				</div>
+		</div>
+	</div>
+	<div class="ofhe_body flick">
+		<div class="flick-container _FLICKING" style="height: 161px; opacity:0;">
+				<div class="flick-panel">
+					<ul class="ofhe_list">
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/032/0003152227" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/032/2022/06/09/3152227.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">“경찰청장은 행안부 장관 부하가 아니다”…‘경찰 길들이기’에 일선 경찰관들 공개 반발</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">행정안전부가 경찰을 지휘·감독하는 경찰국 신설을 검토하는 데 이어 이상민 행안부 장관이 인사 대상자인 경찰 고위간부들을 상대로 면접을 봤다는 소식이 전해지자 일선 경찰관들이 공개적으로 반발하고 있다. 이런 상황에서 </div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/018/0005237352" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/018/2022/06/09/5237352.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">"대구 방화 용의자 현장서 사망...물통 안은 모습 CCTV 찍혀"</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">대구 수성구 범어동 대구지방법원 인근의 건물에 화재가 발생해 7명이 사망하고 40여 명이 부상을 입었다. 사망자 중에는 용의자로 추정되는 50대 A씨도 포함된 것으로 전해졌다. 9일 대구 수</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/005/0001531994" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/005/2022/06/09/1531994.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">文 퇴임 한달, 평산마을 가보니…살벌한 ‘혐오’로 가득</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">문재인 전 대통령이 10일로 퇴임 한 달을 맞는다. 문 전 대통령 내외가 정착한 경남 양산시 하북면 지산리 평산마을은 한 달 전까지만 해도 평온하고 조용한 마을이었다. 그런 동네가 문 전 대통령의 사저 입주 이후 반</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/015/0004709550" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/015/2022/06/09/4709550.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">[단독] 한국 맥도날드도 매물로…패스트푸드 M&A 큰 장 섰다</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">이 기사는 06월 09일 16:15 마켓인사이트 에 게재된 기사입니다. 국내 기업 인수·합병(M&amp;A) 시장이 햄버거 브랜드로 붐비고 있다. 버거킹, KFC에 이어 한국 맥도날드까지 매물로 나오면서다. 지난 3월 자진</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/008/0004756121" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/008/2022/06/09/4756121.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">우리 집 거실 엿보는 검은 눈..."아파트 월패드, 언제든 또 뚫린다"</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">지난해 말 해외 한 인터넷 사이트에 한국의 일반 가정집 내부 전경이 노출된 영상 17만건이 공개돼 충격을 줬다. 모두 아파트 거실 벽에 설치된 월패드를 해킹해 주민의 일상을 불법 촬영한 것이다. 영상에는</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/346/0000051442" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/346/2022/06/08/51442.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">배달 돈가스, 만두… 플라스틱 용기에 담으면 안된다?</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">코로나로 배달음식이 일상식이 됐다. 최근 한국농촌경제연구원에 따르면 우리나라 배달 음식 이용 빈도는 주 1~3회가 가장 많았다(57.1%). 배달 음식 섭취가 늘어난 가운데, 걱정 중 하나가 뜨거운 배달 음식이 담겨</div>
+								</a>
+							</li>
+					</ul>
+				</div>
+				<div class="flick-panel">
+					<ul class="ofhe_list">
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/016/0002000551" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/016/2022/06/08/2000551.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">“깜깜이 연봉 협상 멈춰” 게임업계 첫 파업 예고 ‘없던 일로’</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">“게임업계 최초 파업 예고 웹젠 노조, 사측과 합의” 게임업계 최초로 파업을 예고했던 웹젠 노동조합이 사측과 합의했다. 임금 인상을 둘러싼 2개월간의 진통이 끝났다. 웹젠의 지난해 1인당 평균 연봉은 7100만원, </div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/029/0002738111" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/029/2022/06/09/2738111.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">‘분노 폭발’ 황운하, 한동훈·檢 다 때렸다…“한 줌도 안 되는 검찰만능주의자들”</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">“韓, 文정부의 ‘검찰개혁’ 무위로 돌리는 검찰의 직접수사 확대 시도하고 있어” “‘검수완박법’ 입법 취지 정면으로 역행하는 역사의 반동…삼권분립 정신 몰각시키는 반헌법적 발상” “검찰주의자들, 檢의 독립성·중립성 </div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/052/0001749489" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/052/2022/06/09/1749489.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+											<span class="ofhe_btn_play"><em class="blind">재생하기</em></span>
+											<span class="ofhe_playtime"><em class="blind">재생시간</em><span class="ofhe_time">04:49</span></span>
+										</div>
+									</div>
+									<div class="ofhe_headline">대구에서 방화 추정 폭발 화재...7명 사망·41명 부상</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">오늘 오전 대구지방법원 인근에 있는 변호사 사무실에서 방화로 추정되는 불이 났습니다. 불은 20분 만에 꺼졌지만, 수십 명이 죽거나 다쳤는데요. 긴박했던 상황, 취재기자와 함께 짚어보겠습니다. 김철희 기자,</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/020/0003433358" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/020/2022/06/09/3433358.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">[단독]이낙연, 종로 지역위원장직 내려놔…“당 내 쇄신론 등 고려한 듯”</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">미국으로 출국한 더불어민주당 이낙연 전 대표가 서울 종로 지역위원장직에서 물러난 것으로 9일 확인됐다. 야권에 따르면 이 전 대표는 출국 당일인 7일 당에 “일신상의 사유로 지역위원장을 사퇴하고자 한다”는 사퇴서를 </div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/055/0000978422" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/055/2022/06/09/978422.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">대구 변호사 사무실 밀집 빌딩 불, 7명 사망…"방화자 숨져"</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">대구 범어동 대구지방법원 인근 지하 2층, 지상 5층짜리 변호사 사무실 밀집 빌딩에서 오늘(9일) 방화로 추정되는 불이 나 7명이 숨지고 40여 명이 다쳤습니다. 경찰은 CCTV 등을 분석해 통해 50대 용의자를 특</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/346/0000051447" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/346/2022/06/09/51447.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">선크림 바르면 눈 시린 이유, ‘이것’ 때문</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">선크림을 바른 뒤 눈 통증을 호소하는 사람들이 있다. 눈이 시리고 따가운 느낌을 받는가 하면, 통증이 심해 눈을 오래 뜨기 어려워하는 사람도 볼 수 있다. 자외선으로부터 피부를 지키기 위해서는 선크림을 발라야 하지만</div>
+								</a>
+							</li>
+					</ul>
+				</div>
+				<div class="flick-panel">
+					<ul class="ofhe_list">
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/015/0004709491" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/015/2022/06/09/4709491.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">"고지서 날아가는 중"…나흘간 불법주차 140대 신고한 시민</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">나흘 동안 불법주정차 차량 140대를 신고한 시민이 등장했다. 지난 8일 자동차 전문 온라인 커뮤니티 보배드림에는 &#x27;불법주차 고지서 140장 날아가는 중입니다&#x27;라는 제목의 글이 올라왔다. 작성자 A 씨는 지난 5월 </div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/028/0002593951" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/028/2022/06/09/2593951.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">손흥민 아빠 인터뷰 326만뷰 폭발…“철학 있는 부모찬스 봤다”</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">축구 국가대표 손흥민(30·토트넘)이 폭발적 인기를 얻는 가운데, 그를 키워낸 아버지 손웅정씨에 대한 관심도 뜨거워지고 있다. 가장 화제를 모으는 건 손웅정씨가 2018년 &lt;엠비시(MBC)스포츠탐험대&gt;와 만나 인터뷰</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/020/0003433337" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/020/2022/06/09/3433337.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">대구 빌딩 화재 7명 사망…“방화 용의자 현장서 숨져”[영상]</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">대구지방법원 인근 법무빌딩에서 방화로 추정되는 불이 나 인명피해가 발생했다. 사망자는 7명이며 그중 방화 용의자가 포함된 것으로 추정된다. 9일 대구소방안전본부에 따르면 이날 오전 10시 55분경 수성구 범어동의 한</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/056/0011280982" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/056/2022/06/09/11280982.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+											<span class="ofhe_btn_play"><em class="blind">재생하기</em></span>
+											<span class="ofhe_playtime"><em class="blind">재생시간</em><span class="ofhe_time">03:33</span></span>
+										</div>
+									</div>
+									<div class="ofhe_headline">[속보영상] 유시민 ‘한동훈 명예훼손’ 500만 원 벌금…“항소하겠다”</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">한동훈 법무부 장관의 명예를 훼손한 혐의로 재판에 넘겨진 유시민 전 노무현재단 이사장이 오늘(9일) 1심에서 벌금형을 받았습니다. 서울서부지법 형사7단독 정철민 부장판사는 명예훼손 혐의 사건 1심 선고공판에서 유 </div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/018/0005236831" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/018/2022/06/09/5236831.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">"너무 예뻐" 화제된 女지명수배자…결국 하루만에 자수</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">호주에서 지명수배된 여성이 얼굴 공개로 사회관계망서비스(SNS)에서 화제를 모으자 하루 만에 경찰에 자수했다. 조쉐린 레어드(사진&#x3D;페이스북) 8일(현지시각) 데일리메일 등 외신에 따르면 시드</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/469/0000679647" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/469/2022/06/09/679647.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">송해가 생전 후임으로 찍은 이상벽 "36년 뒷그림자, 누구도 감당하기 어려울 것"</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">지난 8일 세상을 떠난 &#x27;국민 MC&#x27; 송해와 함께 일했던 방송인 이상벽은 9일 고인에 대해 &quot;말 그대로 최후의 일각까지 무대를 지키신 분이고, 여간 바지런한 사람이 아니었다&quot;면서 &quot;이 세상 정리하셨으니 저 세상 가서</div>
+								</a>
+							</li>
+					</ul>
+				</div>
+				<div class="flick-panel">
+					<ul class="ofhe_list">
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/023/0003696523" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/023/2022/06/09/3696523.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">尹에 울분 토한 연평 유족 “北비판 한마디 못한 가슴 아픈 시간”</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">尹대통령, 천안함 생존장병·서해 유족과 오찬 “호국 영웅 예우는 국가의 의무, 제가 지켜드릴 것” 윤석열 대통령은 9일 용산 대통령 집무실로 천안함 폭침 생존 장병, 연평해전 유가족 등을 초청해 오찬을 갖고 “나라를</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/366/0000819561" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/366/2022/06/08/819561.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">번호판 없이 도로로 나온 스포티지… 기아, 화물연대 파업에 직접 운송</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">민주노총 화물연대의 총파업에 운송이 중단되자 기아(000270) 가 아직 번호판도 달지 못한 차량을 직접 적치장으로 운송하고 있다. 8일 자동차 업계에 따르면 기아는 이날 광주공장과 광명공장에서 생산된 스포티지 신차</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/011/0004063068" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/011/2022/06/09/4063068.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">SK인데 '줍줍' 3번에도 또 미달…'인천 강남' 송도의 눈물</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">이달 중 예정돼 있는 분양가상한제 개편을 앞두고 분양 시장이 숨죽이고 있는 가운데 인천 송도국제도시에서는 미계약으로 인한 무순위 청약 물량이 끊임없이 나오고 있다. 대형 건설사인 SK에코플랜트가 시공하는</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/057/0001668900" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/057/2022/06/09/1668900.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">안동 아파트 단지서 알몸으로 부부싸움하던 남녀, 대체 왜?</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">대낮의 한 아파트 단지 주차장에서 한 부부가 나체로 부부싸움을 하다 경찰에 연행됐습니다. 9일 안동경찰서는 지난 2일 오전 10시쯤 경북 안동시 한 아파트 단지 주차장에서 성인 남녀가 알몸 상태로 싸우고 있다는 신고</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/008/0004756406" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/008/2022/06/09/4756406.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">삼성동 -7억·잠실동 -4억...강남 아파트도 '뚝' 떨어졌다</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">다주택자 양도세 중과 1년 한시 배제와 기준금리 인상에 따라 서울 아파트값이 2주 연속 내림세를 기록했다. 강남3구 가운데 강남구 아파트값은 지난 3월 이후 약 석달여 만에 보합 전환했다. 구체적으로 강남구 삼성동 </div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/009/0004975452" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/009/2022/06/09/4975452.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">'文사저 시위' 보복 나선 진보매체 유튜버…"'尹집'에서 맞불 집회"</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">문재인 전 대통령 사저 인근에서 연일 시위를 벌이는 보수단체에 맞서 보복 시위를 예고한 진보성향 매체 &#x27;서울의소리&#x27;가 시위 장소를 윤석열 대통령 사저 &#x27;서초 아크로비스타&#x27;로 변경하겠다고 말했다. 서울의소리는 8일 &#x27;</div>
+								</a>
+							</li>
+					</ul>
+				</div>
+				<div class="flick-panel">
+					<ul class="ofhe_list">
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/003/0011238551" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/003/2022/06/09/11238551.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">"아내 병원비 마련하려고 복권 샀는데"…1등 5억원 당첨</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">아내 치료비를 마련하려고 복권을 구매했다가 1등에 당첨된 기적 같은 사연이 알려졌다. 지난 8일 동행복권 홈페이지에는 제63회 1등 당첨자의 인터뷰가 올라왔다. 인터뷰에서 A씨는 </div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/028/0002593938" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/028/2022/06/09/2593938.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">이 검은색 구멍, 팽창하는 것처럼 보이는데…나만?</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">글을 읽기 전에 위의 그림을 먼저 보자. 마치 중앙의 검은색 구멍(블랙홀)이 바깥으로 팽창하는 듯하다. 하지만 착시다. 실제로는 완전히 정지돼 있는 그림이다. 노르웨이 오슬로대와 일본 리츠메이칸대 공동연구진이 최근 </div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/001/0013236163" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/001/2022/06/09/13236163.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">"재판 패소에 앙심"…용의자, 흰 천 덮은 물건 들고 건물 들어서</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">경찰, 방화 용의자 건물 진입 CCTV 확보…발화 원인 감식대구 빌딩에서 화재, 구조 기다리는 시민들(서울&#x3D;연합뉴스) 9일 대구 수성구 범어동 대구지방법원 인근 변호사 사무실 빌딩에서 불이나 시민들이 옥상 부근에서 구조를 기다리고 있다. 이 화재로 7명이 숨지고 46명이 다쳤다. 2022.6.9 [독자 최식백 씨 제공....</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/014/0004849403" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/014/2022/06/09/4849403.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">내년도 최저임금 얼마?…"어느 해보다 높은 인상" vs  "일자리 사라진다"</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">내년도 최저임금 인상 수준을 두고 노사가 극명한 입장차를 재확인했다. 노동계는 저임금 노동자 보호를 위해 어느 때보다 높은 수준의 최저임금 인상을, 경영계는 최저임금의 안정을 주장했다. 최저임금위원회</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/032/0003152270" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/032/2022/06/09/3152270.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">윤 대통령, ‘MB 사면’에 “이십몇 년 수감하는 건 안 맞아”···‘대통령 5년 미만 수감’ 법칙 유지되나</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">윤석열 대통령이 9일 전직 대통령 이명박(MB)씨 특별 사면 여부에 “그 뭐 이십 몇 년을 수감생활 하게 하는 건 안 맞지 않나”라고 말했다. 이씨 특별사면 가능성을 강하게 시사한 발언으로 풀이된다. 이씨 사면이 이</div>
+								</a>
+							</li>
+							<li class="ofhe_item _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+								<a href="/mnews/article/081/0003278806" class="ofhe_link" data-clk="arw.art" data-extra="{&quot;md&quot;:{&quot;s&quot;:&quot;ppclVfeKVotmZx3l&quot;}}">
+									<div class="ofhe_thumb _LAZY_LOADING_ERROR_HIDE">
+										<div class="ofhe_image">
+											<img data-src="https://imgnews.pstatic.net/image/origin/081/2022/06/09/3278806.jpg?type&#x3D;nf336_206" data-scroll="true" alt="" class="_LAZY_LOADING">
+										</div>
+									</div>
+									<div class="ofhe_headline">[속보] “원숭이두창, 한 달 만에 확진 1천건 넘었다”</div>
+									<div class="ofhe_lede _LAZY_LOADING_ERROR_SHOW" style="display:none;">“비풍토병 지역 29개국서 확진사례 보고” “일부 국가서 지역 전파 진행 징후” “타인과의 접촉이 주된 전파 경로” 중·서부 아프리카 지역 풍토병으로 알려진 원숭이두창(Monkeypox)이 지난달 7일 영국에서 첫 </div>
+								</a>
+							</li>
+					</ul>
+				</div>
+		</div>
+	</div>
+	<div class="ofhe_paginate pg">
+		<div class="pg_num_area pg_num_area_v2">
+			<button type="button" class="pg_btn_prev _FLICKING_PREV"><span class="blind">이전 뉴스들 보기</span></button>
+			<div class="_FLICKING_INDICATOR" data-count="5"></div>
+			<div class="pg_line"></div>
+			<div class="pg_num pg_num">5</div>
+			<button type="button" class="pg_btn_next _FLICKING_NEXT"><span class="blind">다음 뉴스들 보기</span></button>
+		</div>
+	</div>
+	<script type="x-tmpl-mustache" class="_FLICKING_INDICATOR_TEMPLATE _PC">
+	{{#selected}}
+		<div class="pg_num pg_num_cur">{{number}}</div>
+	{{/selected}}
+	</script>
+</div>
+<div class="rankingnews optional_hidden is_hidden _FLICKING_WRAP _OFFICE_HEADLINE _PERSIST_META" data-persist="premium_next_airs_recommend" data-count="3" data-flicking-nclk="true" data-nclk-prefix="arp" data-grid-template-column-aside="true">
+	<div class="ra_head">
+		<strong class="ra_title">함께 볼만한 프리미엄</strong>
+		<button type="button" class="help_button _TOGGLE" data-target="_ARTICLE_NEXT_PREMIUM_INFO" data-clk="arp.inftoggle"><span class="blind">안내</span></button>
+		<div id="_ARTICLE_NEXT_PREMIUM_INFO" class="help_layer" style="display:none;">
+			<p class="help_layer_text">프리미엄콘텐츠는 네이버가 인터넷뉴스 서비스사업자로서 제공, 매개하는 기사가 아니고, 해당 콘텐츠 제공자가 프리미엄 회원을 대상으로 별도로 발행·제공하는 콘텐츠입니다.</p>
+			<button type="button" class="help_layer_close _CLOSE" data-target="_ARTICLE_NEXT_PREMIUM_INFO" data-clk="arp.infclose">닫기</button>
+		</div>
+	</div>
+	<div class="ra_area">
+		<div class="flick" style="height:348px;">
+			<div class="flick-container _FLICKING" style="height:348px; opacity:0;">
+				<div class="flick-panel">
+					<ul class="ranking_list _FLICKING_CONTENT">
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/stockisacompany/pklinvestment/contents/220608123218263ir" class="rl_link_end" data-clk="arp.ptextg" data-score="0.8209860756210747" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										반도체 M&amp;A 적벽대전, SK하이닉스와 퀄컴 둘 중 ARM은 누가 인수할까?
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">투자마니또</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMTA3/MDAxNjU0NjU4ODUyOTQ1.OTNRLYFLe16oeo_CBoiuVe5hxzyCtOgo-GX42qgJCtsg.mumhLZWdow2LXtRc3B2DCB6xloktk8EFw8h6PHolj_Eg.JPEG/2022.06.08_%ED%95%98%EB%8B%89%ED%80%84%EC%BB%B4.jpg?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/numbers/members/contents/220604142333251vj" class="rl_link_end" data-clk="arp.ptextg" data-score="1.1277007620825223" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										‘보복 여행’ 터져라, 가슴 졸이는 하나투어
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">넘버스</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDRfODgg/MDAxNjU0MzIwMTY5MTQz.FnOu7LPLN14pSE--ruie1O8tk9cUHK3FPnVfm_XwLvgg.p0PA1OMtVDlODaosbv6Uas3j_FVLJkKe6YbAdr9gZ9Ag.JPEG/%EA%B3%B5%EC%8B%9C%ED%80%B5%EB%B7%B0.jpg?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/geriforum/gericenter/contents/220605065553986wq" class="rl_link_end" data-clk="arp.ptextg" data-score="1.0474648822465036" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										2013년 국내 주택시장, 주요 흐름과 대책
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">종합경영보고서</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDVfMTg1/MDAxNjU0Mzc5MDM2MDU2.bBItGLyVnSRQ7R5irkoy3PszNokWGxl7qwB81HeZbNUg.52xK1ibaCH-SkWB2Q7WJYGwz7ZV8tC3uEeRJ3IFRdk4g.PNG/image.png?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/thebell/stock/contents/220607171737941wg" class="rl_link_end" data-clk="arp.ptextg" data-score="0.8596171583446252" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										기로에 선 태영건설, 원자재가 &#x27;폭탄&#x27; 피할 수 있을까
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">thebellstock</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDdfMTcy/MDAxNjU0NTc4MTkzMjUy.-hbToIkt7GfbUf-W6LvI60lM3so-6EQ5HEbC9dvFvZ4g.y-veA46nVJ065CKcyQhGoIM8ElkzjB7L5Vng6_aW8XAg.JPEG/Screenshot_2022-06-07_at_14.03.05.jpg?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="flick-panel">
+					<ul class="ranking_list _FLICKING_CONTENT">
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/designlatte/designstudio/contents/220606210734370sg" class="rl_link_end" data-clk="arp.ptextg" data-score="0.8049403331779794" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										모던한 인스타그램 일정 캘린더 공지사항 피드 만들기①
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">디자인라떼의 디자인작업실</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDZfMjI2/MDAxNjU0NTE2ODI5NzYx.20JyWha0plitltEyu_BRLya70ALP8Uox_UVz7iok6jIg.J4mzlL-aPWEXeMhkwUr9_XbsCbQbvsHl_3XWNZnTq2Ug.PNG/00.png?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+										<span class="rl_btn_play"><em class="blind">동영상 기사</em></span>
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220609104026331se" class="rl_link_end" data-clk="arp.ptextg" data-score="0.9563978961046238" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										[부산 강서자이 에코델타] 아직 허허벌판에 비행기소음까지…84㎡ 5억, 이 분양가 싼 거야 비싼 거야?
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">땅집고 pro</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDlfMTI2/MDAxNjU0NzI5NzYxMTgw.gnB8rK2_d1usq3enOAtD8r2Tvcf0MJNGIDAV6oeEiMgg.xwSws-ALMuczEpkhyqbRvaqFurSXZAx9VAbQxpmM1lkg.JPEG/1.jpg?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/hozytamtam/hozytam/contents/220608155911417sg" class="rl_link_end" data-clk="arp.ptextg" data-score="0.8570566630866095" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										니체가 말했다 &quot;반성하지 마라!&quot;
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">지식탐정의 호시탐탐</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMjc2/MDAxNjU0NjcwMDU2ODA2.hP5Pm5sAG_MnkUCGfXae1c5NZUT9d3OO8lBPszSD_mUg.EyMMWI9BsNl0EZr-O0Y8w9XmbSELWipl4Jd6B2VsnH4g.JPEG/%EA%B7%B8%EB%A6%BC6.jpg?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/byline/commercebn/contents/220608093855732iw" class="rl_link_end" data-clk="arp.ptextg" data-score="0.8329893006180853" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										adidas X
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">커머스BN</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMTMg/MDAxNjU0NjQ4MjIxMjY4.ilfq_rGlaC0eeV8O56IweWAnMFd8mojqpcK21LiGsmEg.-S7N8Af3R9XgAH1pOTJus5gKPFTzeFlj7GP-L7yNVckg.JPEG/%EC%88%98%EC%A0%95%EB%90%A8_y3-adidas_0002_H23600-H23600_Y-3_HLD_Y-3_QASA_HIGH_B35673_IMAGE_NO_02_CR.jpg?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="flick-panel">
+					<ul class="ranking_list _FLICKING_CONTENT">
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/numbers/members/contents/220603001330787ym" class="rl_link_end" data-clk="arp.ptextg" data-score="2.1183208129395106" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										‘수상한’ 농심(農心), 라면 매출 급증 무슨 일?
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">넘버스</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDNfOTkg/MDAxNjU0MTgyNzE5OTU1.Uz22OY577nbeX1LOZfAiNcD12BzTCF5EG2WcTTK95U0g.3sjWSvRmYWI3WiVxLx2ouvQhG_sKk80KLvZ7PDmjSBgg.JPEG/%EA%B3%B5%EC%8B%9C%ED%80%B5%EB%B7%B0.jpg?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/insightoutsight/findinsightoutsight/contents/220605222257695ma" class="rl_link_end" data-clk="arp.ptextg" data-score="0.9612529502971445" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										이제 분초를 다툰다…더 치열해지고 있는 ‘퀵커머스 전쟁’
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">INSIGHT OUTSIGHT</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDVfMTA1/MDAxNjU0NDM1MjY0MDI4.Sl_2lyOF2ePhnraDE2SilpA-Raf4PwPewCnYj2jhAg8g.pUTnaC7Jg-pr4kDPpB5R_ILYwBKYZ4p9KWAYVjQaY2Mg.JPEG/1.jpg?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/sclass/slab/contents/220604134708036lw" class="rl_link_end" data-clk="arp.ptextg" data-score="0.8675600107000353" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										<mark class="rl_content_tag paid">유료</mark>
+										[이상우] 손흥민이 되고 싶다면, 목표와 목적부터 명확해야
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">스포츠LAB</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDRfMTYy/MDAxNjU0MzE3ODQ0OTIx.ebo5ox4IWDLWTxtfLJlIiXydpBeETxh0V6g_BYV-Uv0g.TwFyPP-iddYMY5p3y0RYV4gG8vaWxxG4Tv1KL2f14aIg.JPEG/b88167d6-0e3f-4510-abb4-32316ffb4243.jpg?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+						<li class="rl_item as_badge_in_content _LAZY_LOADING_WRAP" data-loading-error-allowed="true">
+							<a href="https://contents.premium.naver.com/nomadand/nomad/contents/220608083808715wn" class="rl_link_end" data-clk="arp.ptextg" data-score="0.8472925703849354" data-recommended-type="GLOBAL">
+								<div class="rl_content">
+									<p class="rl_txt">
+										220608 [장 전 뉴스 check]
+									</p>
+									<div class="rl_author">
+										<div class="rl_author_name">유목민</div>
+									</div>
+								</div>
+								<div class="rl_img _LAZY_LOADING_ERROR_HIDE">
+									<div class="rl_border">
+										<img data-src="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMjE5/MDAxNjU0NjQ0OTMxMzE2.W9RJy8lIo_nStzcRB543KV-SoosUjekIzFRGcMOm8Jog.XVgaaz_0Zx0LjTxLLoQcMVjlE99jOqb-1JdBHjkSwXYg.PNG/Image.png?type&#x3D;nf190_130" data-scroll="true" class="_LAZY_LOADING" width="95" height="65">
+									</div>
+								</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="pg ra_paginate">
+			<div class="pg_num_area pg_num_area_v2">
+				<button type="button" class="pg_btn_prev _FLICKING_PREV" data-clk="arp.bprv"><span class="blind">이전 콘텐츠들 보기</span></button>
+				<div class="_FLICKING_INDICATOR" data-count="3"></div>
+				<div class="pg_line"></div>
+				<div class="pg_num pg_num">3</div>
+				<button type="button" class="pg_btn_next _FLICKING_NEXT" data-clk="arp.bnxt"><span class="blind">다음 콘텐츠들 보기</span></button>
+			</div>
+		</div>
+		<script type="x-tmpl-mustache" class="_FLICKING_INDICATOR_TEMPLATE _PC">
+			{{#selected}}
+			<div class="pg_num pg_num_cur">{{number}}</div>
+			{{/selected}}
+		</script>
+	</div>
+</div>
+</div>
+		<div class="outside_area _OUTSIDE_AREA">
+			<div class="outside_area_inner _GRID_TEMPLATE_COLUMN_ASIDE _OUTSIDE_AREA_INNER"></div>
+		</div>
+		<aside class="main_aside _MAIN_ASIDE">
+			<div class="main_aside_inner _MAIN_ASIDE_INNER">
+			<h3 class="blind">구독</h3>
+			<script type="x-tmpl-mustache" class="_LAZY_LOADING_IFRAME">
+			<iframe class="_aside _GRID_TEMPLATE_ASIDE_IFRAME" src="https://news.naver.com/aside" data-allow-domain="https://news.naver.com" style="visibility: hidden;" frameborder="no" scrolling="no" width="100%"></iframe>
+			</script>
+			</div>
+		</aside>
+	</div>
+</div>
+<div class="media_end_tts_ticker _FADE_LAYER" id="_media_end_tts_ticker" style="display: none;">
+	<p class="media_end_tts_ticker_text" style="display: block;">본문 듣기를 <em class="media_end_tts_ticker_point">종료</em>하였습니다.</p>
+</div>
+<div class="tomain_ticker _TOMAIN_RECOMMAND_LAYER _FADE_LAYER" style="display: none;">이 기사를 <em class="tomain_ticker_point">추천</em>했습니다.
+</div>
+<div class="tomain_ticker _TOMAIN_CANCEL_LAYER _FADE_LAYER" style="display: none;">추천을 <em class="tomain_ticker_point">취소</em>했습니다.
+</div><hr>
+	<div class="u_ft">
+		<a href="#" class="r_pg_top show _MOVE_TOP" id="goTop" data-clk="fot.top" style="display:none;">맨위로</a>
+		<footer role="contentinfo">
+			<p id="u_ftlkw" class="u_ftlkw">
+					<a href="https://nid.naver.com/nidlogin.login?svctype=262144" class="u_ftlk _LINK" data-url="https://nid.naver.com/nidlogin.login?svctype=262144" data-pc-url="https://nid.naver.com/nidlogin.login" data-clk="fot.login">로그인</a>
+				<a href="https://m.naver.com/services.html?f=svc.news" class="u_ftlk _LINK" data-url="https://m.naver.com/services.html?f=svc.news" data-pc-url="https://www.naver.com/more.html" data-clk="fot.sitemap">전체서비스</a>
+			</p>
+			<p class="u_cr">
+				<span class="u_ftm">
+					<span class="u_cri u_cri_v1"><a href="https://m.news.naver.com/ombudsman/index" class="u_cra _LINK" data-url="https://m.news.naver.com/ombudsman/index" data-pc-url="https://news.naver.com/main/ombudsman/index.naver">서비스안내</a></span>
+					<span class="u_cri u_cri_v1"><a href="https://m.help.naver.com/support/alias/news/news_m1.naver" class="u_cra _LINK" data-url="https://m.help.naver.com/support/alias/news/news_m1.naver" data-pc-url="https://help.naver.com/support/service/main.help?serviceNo=997&_news_news_1" data-clk="fot.help">뉴스도움말</a></span>
+					<span class="u_cri u_cri_v1"><a href="https://m.help.naver.com/support/alias/news/news_001.naver" class="u_cra _LINK" data-url="https://m.help.naver.com/support/alias/news/news_001.naver" data-pc-url="https://help.naver.com/support/contents/contents.help?serviceNo=997&categoryNo=8158" data-clk="fot.report">오류신고</a></span>
+				</span>
+				<span class="u_copyright">본 콘텐츠의 저작권은 제공처 또는 네이버에 있으며, 이를 무단<br>이용하는 경우 저작권법 등에 따라 법적책임을 질 수 있습니다.</span>
+				<span class="u_cri"><span class="copymark">ⓒ</span> <a href="https://www.navercorp.com" class="u_cra_v1" data-clk="fot.navercorp">NAVER Corp.</a></span>
+					<span class="u_cri"><span class="copymark">ⓒ</span> <a class="u_cra_v1">파이낸셜뉴스</a></span>
+			</p>
+		</footer>
+	</div><div id="_MY_FEED_CANCEL_MODAL" class="subscribe_dimmed is_hidden" style="display:none;">
+	<div class="subscribe_alert">
+		<p class="subscribe_alert_p _message _MY_FFED_CANCEL_MODAL_MESSAGE">
+		</p>
+		<div class="subscribe_alert_btns">
+			<a href="#" class="subscribe_alert_btn _CANCEL_YES_BTN _TOGGLE" data-target="_MY_FEED_CANCEL_MODAL" data-classValue="is_hidden">예</a>
+			<a href="#" class="subscribe_alert_btn _TOGGLE" data-target="_MY_FEED_CANCEL_MODAL" data-classValue="is_hidden">아니오</a>
+		</div>
+	</div>
+</div>
+<script type="x-tmpl-mustache" class="_MY_FEED_CANCEL_MODAL_TEMPLATE">
+			{{#series}}
+			<span class="subscribe_alert_p_ellipsis">{{value}}</span><br>연재 구독을 취소하시겠습니까? <span class="subscribe_alert_p_dsc">해당 기사는 <em>구독</em>에서 제외됩니다.</span>
+			{{/series}}
+			{{#journalist}}
+			{{value}} 기자의 기사<br> 구독을 취소하시겠습니까? <span class="subscribe_alert_p_dsc"><em>구독</em>에서 해당 기자의 기사가 제외됩니다.</span>
+			{{/journalist}}
+</script>
+<div id="_MODAL_LAYER_FOR_NOTIFICATION" class="modal is_hidden"></div>
+<div id="_MODAL_LAYER_FOR_NOTIFICATION_ALL" class="modal is_hidden"></div>
+<script type="x-tmpl-mustache" class="_MODAL_LAYER_TEMPLATE_FOR_NOTIFICATION">
+<div class="m_dimmed"></div>
+<div class="m_notification is_single">
+	<strong class="mn_ok">구독완료</strong>
+	{{#officeInfos}}
+	<div class="mn_text">
+		<h4 class="mn_h">{{officeName}} 뉴스를 <br> <span class="m_em">알림</span>으로 받아 보시겠습니까?</h4>
+		<p class="mn_p">언론사의 주요 콘텐츠를 <br> 네이버에서 빠르게 확인할 수 있습니다.</p>
+	</div>
+	{{/officeInfos}}
+	<div class="mn_btns">
+		<button type="button" class="mn_btn _MODAL_LAYER_NEGATIVE" data-clk="{{nclk}}no">닫기</button>
+		<button type="button" class="mn_btn as_em _MODAL_LAYER_POSITIVE" data-clk="{{nclk}}yes">알림받기</button>
+	</div>
+</div>
+</script>
+<script type="x-tmpl-mustache" class="_MODAL_LAYER_TEMPLATE_FOR_NOTIFICATION_ALL">
+<div class="m_dimmed"></div>
+<div class="m_notification">
+	<strong class="mn_ok">구독완료</strong>
+	<div class="mn_text">
+		<h4 class="mn_h">언론사의 주요 뉴스를 <br> <span class="m_em">알림</span>으로 받아 보시겠습니까?</h4>
+		<ul class="mn_list">
+			{{#officeInfos}}
+			<li class="mn_item">
+				<div class="mn_head">
+					<div class="mn_img">
+						<img src="{{logo}}" alt="">
+					</div>
+					<div class="mn_name">{{officeName}}</div>
+				</div>
+				<div class="mn_body">
+					<button type="button" class="mn_noti _ALL_OFFICES_NOTIFICATION_ITEM" data-oid="{{officeId}}" data-clk-add="notchnon" data-clk-remove="notchnoff">알림받기 사용함</button>
+				</div>
+			</li>
+			{{/officeInfos}}
+		</ul>
+	</div>
+	<div class="mn_btns">
+		<button type="button" class="mn_btn _MODAL_LAYER_NEGATIVE" data-clk="{{nclk}}no">닫기</button>
+		<button type="button" class="mn_btn as_em _MODAL_LAYER_POSITIVE _CHANNEL_BANNER_ITEM_NOTICE_COMPLETE" data-clk="{{nclk}}yes">완료</button>
+	</div>
+</div>
+</script>
+<div id="_TICKER_LAYER_FOR_NOTIFICATION" class="ticker" style="display: none;"></div>
+<script type="x-tmpl-mustache" class="_TICKER_LAYER_TEMPLATE_FOR_NOTIFICATION">
+{{#officeInfos}}
+<p class="t_inner"><em class="t_point">{{officeName}}</em> 언론사 알림이 설정되었습니다.</p>
+{{/officeInfos}}
+</script>
+<script src="https://static-nnews.pstatic.net/js/min/20220609/library.min.js"></script>
+<script src="https://static-nnews.pstatic.net/js/min/20220609/read.min.js"></script>
+<script>
+	if (nil) {
+
+		var section = {"id":"102","name":"사회"};
+		var redirectSection = {"id":"102","name":"사회"};
+
+		nil.init("naver_news", article.officeId);
+
+		// 기타 또는 주요 섹션 이름
+		var nilSendSectionName = "기타";
+		if (/100|101|102|103|104|105|106|107/.test(section.id)) {
+			nilSendSectionName = section.name;
+		}
+
+		// 기사 타입
+		var htArticleTypeName = { "0": "text", "1": "photo", "2": "tv" };
+		var articleTypeName = htArticleTypeName[article.type] || "";
+
+		var nilInfo = {
+			"uri": "http://news.naver.com/main/read.nhn?oid=014&aid=0004849526",
+			"dimension_1": encodeURIComponent(nilSendSectionName),
+			"dimension_4": articleTypeName
+		};
+
+		var journalistIdList = [];
+
+		// 기자 목록
+		$("._JOURNALIST_CARD ._JOURNALIST_ID").each(function (index, object) {
+			var $this = $(object);
+			var journalistId = $this.attr("data-journalistId");
+
+			if (journalistId && journalistIdList.indexOf(journalistId) === -1) {
+				journalistIdList.push(journalistId);
+			}
+		});
+
+		if (journalistIdList.length > 0) {
+			nilInfo["dimension_3"] = journalistIdList.join("___");
+		}
+
+		if (location.href.match(/ntype=RANKING/)) {
+			nilInfo["dimension_5"] = "y";
+		}
+
+		if (service.sports) {
+			nilInfo["dimension_2"] = article.sectionInfo.secondSection + "." + article.sectionInfo.thirdSection;
+		}
+
+		nil.add(nilInfo);
+
+		if (/\/article\/comment\//.test(location.href) == false) {
+			if (window.addEventListener) {
+				window.addEventListener("load", function () {
+					nil.send("cv", "post_view");
+				}, false);
+				window.addEventListener("unload", function () {
+					nil.send("leave");
+				}, false);
+			} else if (window.attachEvent) {
+				window.attachEvent("onload", function () {
+					nil.send("cv", "post_view");
+				});
+				window.attachEvent("onunload", function () {
+					nil.send("leave");
+				});
+			} else {
+				var fnOnUnload = window.onunload;
+				window.onunload = function () {
+					nil.send("leave");
+					if (fnOnUnload) {
+						fnOnUnload();
+					}
+				};
+
+				var fnOnload = window.onload;
+				window.onload = function () {
+					nil.send("cv", "post_view");
+					if (fnOnload) {
+						fnOnload();
+					}
+				};
+			}
+		}
+	}
+
+	if (typeof BMR !== "undefined") {
+		BMR.run("https://sp.naver.com/sp");
+	}
+</script>
+		</div>
+		<script>
+			var eventType = "onpageshow" in window ? "pageshow" : "load";
+			$(window).on(eventType, function() {
+				lcs_do_gdid("880000FF_000000000000000004849526");
+
+				// ma 로그 전송
+				var data = {
+					"service": "news",
+					"baseInfo": {
+						"category": (/\/article\/comment\//.test(location.href) == true) ? "댓글" : "본문",
+					},
+					"extraInfo": {
+						"articleId": article.articleId,
+						"sectionId": article.sectionId,
+						"officeId": article.officeId,
+						"articleType": article.type
+					}
+				};
+
+				if (typeof ma !== "undefined") {
+					ma.init({
+						api: "https://ma.news.naver.com/l",
+						data: data,
+						contentBodyEl: document.querySelector("._article_content"),
+						contentBodyVideoWrapperSelector: "._VIDEO_AREA"
+					});
+				}
+
+				if (window.matchMedia("(prefers-color-scheme)").media === "not all") {
+					$("html").removeClass("DARK_THEME");
+				}
+			});
+		</script>
+	</body>
+</html>
